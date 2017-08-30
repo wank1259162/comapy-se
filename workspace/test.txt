@@ -1,0 +1,1 @@
+Extend your GitHub workflow beyond your browser with our Desktop Beta, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
