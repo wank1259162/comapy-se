@@ -1,2000 +1,2003 @@
-Mary	F	7065
-Anna	F	2604
-Emma	F	2003
-Elizabeth	F	1939
-Minnie	F	1746
-Margaret	F	1578
-Ida	F	1472
-Alice	F	1414
-Bertha	F	1320
-Sarah	F	1288
-Annie	F	1258
-Clara	F	1226
-Ella	F	1156
-Florence	F	1063
-Cora	F	1045
-Martha	F	1040
-Laura	F	1012
-Nellie	F	995
-Grace	F	982
-Carrie	F	949
-Maude	F	858
-Mabel	F	808
-Bessie	F	794
-Jennie	F	793
-Gertrude	F	787
-Julia	F	783
-Hattie	F	769
-Edith	F	768
-Mattie	F	704
-Rose	F	700
-Catherine	F	688
-Lillian	F	672
-Ada	F	652
-Lillie	F	647
-Helen	F	636
-Jessie	F	635
-Louise	F	635
-Ethel	F	633
-Lula	F	621
-Myrtle	F	615
-Eva	F	614
-Frances	F	605
-Lena	F	603
-Lucy	F	591
-Edna	F	588
-Maggie	F	582
-Pearl	F	569
-Daisy	F	564
-Fannie	F	560
-Josephine	F	544
-Dora	F	524
-Rosa	F	507
-Katherine	F	502
-Agnes	F	473
-Marie	F	471
-Nora	F	471
-May	F	462
-Mamie	F	436
-Blanche	F	427
-Stella	F	414
-Ellen	F	411
-Nancy	F	411
-Effie	F	406
-Sallie	F	404
-Nettie	F	403
-Della	F	391
-Lizzie	F	388
-Flora	F	365
-Susie	F	361
-Maud	F	345
-Mae	F	344
-Etta	F	323
-Harriet	F	319
-Sadie	F	317
-Caroline	F	306
-Katie	F	303
-Lydia	F	302
-Elsie	F	301
-Kate	F	299
-Susan	F	286
-Mollie	F	283
-Alma	F	277
-Addie	F	274
-Georgia	F	259
-Eliza	F	252
-Lulu	F	249
-Nannie	F	248
-Lottie	F	245
-Amanda	F	241
-Belle	F	238
-Charlotte	F	237
-Rebecca	F	236
-Ruth	F	234
-Viola	F	229
-Olive	F	224
-Amelia	F	221
-Hannah	F	221
-Jane	F	215
-Virginia	F	213
-Emily	F	210
-Matilda	F	210
-Irene	F	204
-Kathryn	F	204
-Esther	F	198
-Willie	F	192
-Henrietta	F	191
-Ollie	F	183
-Amy	F	167
-Rachel	F	166
-Sara	F	165
-Estella	F	162
-Theresa	F	153
-Augusta	F	151
-Ora	F	149
-Pauline	F	144
-Josie	F	141
-Lola	F	138
-Sophia	F	138
-Leona	F	137
-Anne	F	136
-Mildred	F	132
-Ann	F	131
-Beulah	F	131
-Callie	F	131
-Lou	F	131
-Delia	F	129
-Eleanor	F	129
-Barbara	F	127
-Iva	F	127
-Louisa	F	126
-Maria	F	125
-Mayme	F	124
-Evelyn	F	122
-Estelle	F	119
-Nina	F	119
-Betty	F	117
-Marion	F	115
-Bettie	F	113
-Dorothy	F	112
-Luella	F	111
-Inez	F	106
-Lela	F	106
-Rosie	F	106
-Allie	F	105
-Millie	F	105
-Janie	F	96
-Cornelia	F	94
-Victoria	F	93
-Ruby	F	92
-Winifred	F	92
-Alta	F	91
-Celia	F	90
-Christine	F	89
-Beatrice	F	87
-Birdie	F	85
-Harriett	F	83
-Mable	F	83
-Myra	F	83
-Sophie	F	83
-Tillie	F	83
-Isabel	F	81
-Sylvia	F	81
-Carolyn	F	80
-Isabelle	F	80
-Leila	F	80
-Sally	F	80
-Ina	F	79
-Essie	F	78
-Bertie	F	77
-Nell	F	77
-Alberta	F	76
-Katharine	F	76
-Lora	F	74
-Rena	F	74
-Mina	F	73
-Rhoda	F	73
-Mathilda	F	72
-Abbie	F	71
-Eula	F	70
-Dollie	F	69
-Hettie	F	69
-Eunice	F	67
-Fanny	F	67
-Ola	F	67
-Lenora	F	66
-Adelaide	F	65
-Christina	F	65
-Lelia	F	65
-Nelle	F	65
-Sue	F	65
-Johanna	F	64
-Lilly	F	64
-Lucinda	F	63
-Minerva	F	63
-Lettie	F	62
-Roxie	F	62
-Cynthia	F	61
-Helena	F	60
-Hilda	F	60
-Hulda	F	60
-Bernice	F	59
-Genevieve	F	59
-Jean	F	59
-Cordelia	F	58
-Marian	F	56
-Francis	F	55
-Jeanette	F	55
-Adeline	F	54
-Gussie	F	54
-Leah	F	54
-Lois	F	53
-Lura	F	53
-Mittie	F	53
-Hallie	F	51
-Isabella	F	50
-Olga	F	50
-Phoebe	F	50
-Teresa	F	50
-Hester	F	49
-Lida	F	49
-Lina	F	49
-Winnie	F	49
-Claudia	F	48
-Marguerite	F	48
-Vera	F	48
-Cecelia	F	47
-Bess	F	46
-Emilie	F	46
-John	F	46
-Rosetta	F	46
-Verna	F	46
-Myrtie	F	45
-Cecilia	F	44
-Elva	F	44
-Olivia	F	44
-Ophelia	F	44
-Georgie	F	43
-Elnora	F	42
-Violet	F	42
-Adele	F	41
-Lily	F	41
-Linnie	F	41
-Loretta	F	41
-Madge	F	41
-Polly	F	41
-Virgie	F	41
-Eugenia	F	40
-Lucile	F	40
-Lucille	F	40
-Mabelle	F	39
-Rosalie	F	39
-Kittie	F	38
-Meta	F	37
-Angie	F	36
-Dessie	F	36
-Georgiana	F	36
-Lila	F	36
-Regina	F	36
-Selma	F	36
-Wilhelmina	F	36
-Bridget	F	35
-Lilla	F	35
-Malinda	F	35
-Vina	F	35
-Freda	F	34
-Gertie	F	34
-Jeannette	F	34
-Louella	F	34
-Mandy	F	34
-Roberta	F	34
-Cassie	F	33
-Corinne	F	33
-Ivy	F	33
-Melissa	F	33
-Lyda	F	32
-Naomi	F	32
-Norma	F	32
-Bell	F	31
-Margie	F	31
-Nona	F	31
-Zella	F	31
-Dovie	F	30
-Elvira	F	30
-Erma	F	30
-Irma	F	30
-Leota	F	30
-William	F	30
-Artie	F	29
-Blanch	F	29
-Charity	F	29
-Janet	F	29
-Lorena	F	29
-Lucretia	F	29
-Orpha	F	29
-Alvina	F	28
-Annette	F	28
-Catharine	F	28
-Elma	F	28
-Geneva	F	28
-Lee	F	28
-Leora	F	28
-Lona	F	28
-Miriam	F	28
-Zora	F	28
-Linda	F	27
-Octavia	F	27
-Sudie	F	27
-Zula	F	27
-Adella	F	26
-Alpha	F	26
-Frieda	F	26
-George	F	26
-Joanna	F	26
-Leonora	F	26
-Priscilla	F	26
-Tennie	F	26
-Angeline	F	25
-Docia	F	25
-Ettie	F	25
-Flossie	F	25
-Hanna	F	25
-Letha	F	25
-Minta	F	25
-Retta	F	25
-Rosella	F	25
-Adah	F	24
-Berta	F	24
-Elisabeth	F	24
-Elise	F	24
-Goldie	F	24
-Leola	F	24
-Margret	F	24
-Adaline	F	23
-Floy	F	23
-Idella	F	23
-Juanita	F	23
-Lenna	F	23
-Lucie	F	23
-Missouri	F	23
-Nola	F	23
-Zoe	F	23
-Eda	F	22
-Isabell	F	22
-James	F	22
-Julie	F	22
-Letitia	F	22
-Madeline	F	22
-Malissa	F	22
-Mariah	F	22
-Pattie	F	22
-Vivian	F	22
-Almeda	F	21
-Aurelia	F	21
-Claire	F	21
-Dolly	F	21
-Hazel	F	21
-Jannie	F	21
-Kathleen	F	21
-Kathrine	F	21
-Lavinia	F	21
-Marietta	F	21
-Melvina	F	21
-Ona	F	21
-Pinkie	F	21
-Samantha	F	21
-Susanna	F	21
-Chloe	F	20
-Donnie	F	20
-Elsa	F	20
-Gladys	F	20
-Matie	F	20
-Pearle	F	20
-Vesta	F	20
-Vinnie	F	20
-Antoinette	F	19
-Clementine	F	19
-Edythe	F	19
-Harriette	F	19
-Libbie	F	19
-Lilian	F	19
-Lue	F	19
-Lutie	F	19
-Magdalena	F	19
-Meda	F	19
-Rita	F	19
-Tena	F	19
-Zelma	F	19
-Adelia	F	18
-Annetta	F	18
-Antonia	F	18
-Dona	F	18
-Elizebeth	F	18
-Georgianna	F	18
-Gracie	F	18
-Iona	F	18
-Lessie	F	18
-Leta	F	18
-Liza	F	18
-Mertie	F	18
-Molly	F	18
-Neva	F	18
-Oma	F	18
-Alida	F	17
-Alva	F	17
-Cecile	F	17
-Cleo	F	17
-Donna	F	17
-Ellie	F	17
-Ernestine	F	17
-Evie	F	17
-Frankie	F	17
-Helene	F	17
-Minna	F	17
-Myrta	F	17
-Prudence	F	17
-Queen	F	17
-Rilla	F	17
-Savannah	F	17
-Tessie	F	17
-Tina	F	17
-Agatha	F	16
-America	F	16
-Anita	F	16
-Arminta	F	16
-Dorothea	F	16
-Ira	F	16
-Luvenia	F	16
-Marjorie	F	16
-Maybelle	F	16
-Mellie	F	16
-Nan	F	16
-Pearlie	F	16
-Sidney	F	16
-Velma	F	16
-Clare	F	15
-Constance	F	15
-Dixie	F	15
-Ila	F	15
-Iola	F	15
-Jimmie	F	15
-Louvenia	F	15
-Lucia	F	15
-Ludie	F	15
-Luna	F	15
-Metta	F	15
-Patsy	F	15
-Phebe	F	15
-Sophronia	F	15
-Adda	F	14
-Avis	F	14
-Betsy	F	14
-Bonnie	F	14
-Cecil	F	14
-Cordie	F	14
-Emmaline	F	14
-Ethelyn	F	14
-Hortense	F	14
-June	F	14
-Louie	F	14
-Lovie	F	14
-Marcella	F	14
-Melinda	F	14
-Mona	F	14
-Odessa	F	14
-Veronica	F	14
-Aimee	F	13
-Annabel	F	13
-Ava	F	13
-Bella	F	13
-Carolina	F	13
-Cathrine	F	13
-Christena	F	13
-Clyde	F	13
-Dena	F	13
-Dolores	F	13
-Eleanore	F	13
-Elmira	F	13
-Fay	F	13
-Frank	F	13
-Jenny	F	13
-Kizzie	F	13
-Lonnie	F	13
-Loula	F	13
-Magdalene	F	13
-Mettie	F	13
-Mintie	F	13
-Peggy	F	13
-Reba	F	13
-Serena	F	13
-Vida	F	13
-Zada	F	13
-Abigail	F	12
-Celestine	F	12
-Celina	F	12
-Claudie	F	12
-Clemmie	F	12
-Connie	F	12
-Daisie	F	12
-Deborah	F	12
-Dessa	F	12
-Easter	F	12
-Eddie	F	12
-Emelia	F	12
-Emmie	F	12
-Imogene	F	12
-India	F	12
-Jeanne	F	12
-Joan	F	12
-Lenore	F	12
-Liddie	F	12
-Lotta	F	12
-Mame	F	12
-Nevada	F	12
-Rachael	F	12
-Sina	F	12
-Willa	F	12
-Aline	F	11
-Beryl	F	11
-Charles	F	11
-Daisey	F	11
-Dorcas	F	11
-Edmonia	F	11
-Effa	F	11
-Eldora	F	11
-Eloise	F	11
-Emmer	F	11
-Era	F	11
-Gena	F	11
-Henry	F	11
-Iris	F	11
-Izora	F	11
-Lennie	F	11
-Lissie	F	11
-Mallie	F	11
-Malvina	F	11
-Mathilde	F	11
-Mazie	F	11
-Queenie	F	11
-Robert	F	11
-Rosina	F	11
-Salome	F	11
-Theodora	F	11
-Therese	F	11
-Vena	F	11
-Wanda	F	11
-Wilda	F	11
-Altha	F	10
-Anastasia	F	10
-Besse	F	10
-Bird	F	10
-Birtie	F	10
-Clarissa	F	10
-Claude	F	10
-Delilah	F	10
-Diana	F	10
-Emelie	F	10
-Erna	F	10
-Fern	F	10
-Florida	F	10
-Frona	F	10
-Hilma	F	10
-Joseph	F	10
-Juliet	F	10
-Leonie	F	10
-Lugenia	F	10
-Mammie	F	10
-Manda	F	10
-Manerva	F	10
-Manie	F	10
-Nella	F	10
-Paulina	F	10
-Philomena	F	10
-Rae	F	10
-Selina	F	10
-Sena	F	10
-Theodosia	F	10
-Tommie	F	10
-Una	F	10
-Vernie	F	10
-Adela	F	9
-Althea	F	9
-Amalia	F	9
-Amber	F	9
-Angelina	F	9
-Annabelle	F	9
-Anner	F	9
-Arie	F	9
-Clarice	F	9
-Corda	F	9
-Corrie	F	9
-Dell	F	9
-Dellar	F	9
-Donie	F	9
-Doris	F	9
-Elda	F	9
-Elinor	F	9
-Emeline	F	9
-Emilia	F	9
-Esta	F	9
-Estell	F	9
-Etha	F	9
-Fred	F	9
-Hope	F	9
-Indiana	F	9
-Ione	F	9
-Jettie	F	9
-Johnnie	F	9
-Josiephine	F	9
-Kitty	F	9
-Lavina	F	9
-Leda	F	9
-Letta	F	9
-Mahala	F	9
-Marcia	F	9
-Margarette	F	9
-Maudie	F	9
-Maye	F	9
-Norah	F	9
-Oda	F	9
-Patty	F	9
-Paula	F	9
-Permelia	F	9
-Rosalia	F	9
-Roxanna	F	9
-Sula	F	9
-Vada	F	9
-Winnifred	F	9
-Adline	F	8
-Almira	F	8
-Alvena	F	8
-Arizona	F	8
-Becky	F	8
-Bennie	F	8
-Bernadette	F	8
-Camille	F	8
-Cordia	F	8
-Corine	F	8
-Dicie	F	8
-Dove	F	8
-Drusilla	F	8
-Elena	F	8
-Elenora	F	8
-Elmina	F	8
-Ethyl	F	8
-Evalyn	F	8
-Evelina	F	8
-Faye	F	8
-Huldah	F	8
-Idell	F	8
-Inga	F	8
-Irena	F	8
-Jewell	F	8
-Kattie	F	8
-Lavenia	F	8
-Leslie	F	8
-Lovina	F	8
-Lulie	F	8
-Magnolia	F	8
-Margeret	F	8
-Margery	F	8
-Media	F	8
-Millicent	F	8
-Nena	F	8
-Ocie	F	8
-Orilla	F	8
-Osie	F	8
-Pansy	F	8
-Ray	F	8
-Rosia	F	8
-Rowena	F	8
-Shirley	F	8
-Tabitha	F	8
-Thomas	F	8
-Verdie	F	8
-Walter	F	8
-Zetta	F	8
-Zoa	F	8
-Zona	F	8
-Albertina	F	7
-Albina	F	7
-Alyce	F	7
-Amie	F	7
-Angela	F	7
-Annis	F	7
-Carol	F	7
-Carra	F	7
-Clarence	F	7
-Clarinda	F	7
-Delphia	F	7
-Dillie	F	7
-Doshie	F	7
-Drucilla	F	7
-Etna	F	7
-Eugenie	F	7
-Eulalia	F	7
-Eve	F	7
-Felicia	F	7
-Florance	F	7
-Fronie	F	7
-Geraldine	F	7
-Gina	F	7
-Glenna	F	7
-Grayce	F	7
-Hedwig	F	7
-Jessica	F	7
-Jossie	F	7
-Katheryn	F	7
-Katy	F	7
-Lea	F	7
-Leanna	F	7
-Leitha	F	7
-Leone	F	7
-Lidie	F	7
-Loma	F	7
-Lular	F	7
-Magdalen	F	7
-Maymie	F	7
-Minervia	F	7
-Muriel	F	7
-Neppie	F	7
-Olie	F	7
-Onie	F	7
-Osa	F	7
-Otelia	F	7
-Paralee	F	7
-Patience	F	7
-Rella	F	7
-Rillie	F	7
-Rosanna	F	7
-Theo	F	7
-Tilda	F	7
-Tishie	F	7
-Tressa	F	7
-Viva	F	7
-Yetta	F	7
-Zena	F	7
-Zola	F	7
-Abby	F	6
-Aileen	F	6
-Alba	F	6
-Alda	F	6
-Alla	F	6
-Alverta	F	6
-Ara	F	6
-Ardelia	F	6
-Ardella	F	6
-Arrie	F	6
-Arvilla	F	6
-Augustine	F	6
-Aurora	F	6
-Bama	F	6
-Bena	F	6
-Byrd	F	6
-Calla	F	6
-Camilla	F	6
-Carey	F	6
-Carlotta	F	6
-Celestia	F	6
-Cherry	F	6
-Cinda	F	6
-Classie	F	6
-Claudine	F	6
-Clemie	F	6
-Clifford	F	6
-Clyda	F	6
-Creola	F	6
-Debbie	F	6
-Dee	F	6
-Dinah	F	6
-Doshia	F	6
-Ednah	F	6
-Edyth	F	6
-Eleanora	F	6
-Electa	F	6
-Eola	F	6
-Erie	F	6
-Eudora	F	6
-Euphemia	F	6
-Evalena	F	6
-Evaline	F	6
-Faith	F	6
-Fidelia	F	6
-Freddie	F	6
-Golda	F	6
-Harry	F	6
-Helma	F	6
-Hermine	F	6
-Hessie	F	6
-Ivah	F	6
-Janette	F	6
-Jennette	F	6
-Joella	F	6
-Kathryne	F	6
-Lacy	F	6
-Lanie	F	6
-Lauretta	F	6
-Leana	F	6
-Leatha	F	6
-Leo	F	6
-Liller	F	6
-Lillis	F	6
-Louetta	F	6
-Madie	F	6
-Mai	F	6
-Martina	F	6
-Maryann	F	6
-Melva	F	6
-Mena	F	6
-Mercedes	F	6
-Merle	F	6
-Mima	F	6
-Minda	F	6
-Monica	F	6
-Nealie	F	6
-Netta	F	6
-Nolia	F	6
-Nonie	F	6
-Odelia	F	6
-Ottilie	F	6
-Phyllis	F	6
-Robbie	F	6
-Sabina	F	6
-Sada	F	6
-Sammie	F	6
-Suzanne	F	6
-Sybilla	F	6
-Thea	F	6
-Tressie	F	6
-Vallie	F	6
-Venie	F	6
-Viney	F	6
-Wilhelmine	F	6
-Winona	F	6
-Zelda	F	6
-Zilpha	F	6
-Adelle	F	5
-Adina	F	5
-Adrienne	F	5
-Albertine	F	5
-Alys	F	5
-Ana	F	5
-Araminta	F	5
-Arthur	F	5
-Birtha	F	5
-Bulah	F	5
-Caddie	F	5
-Celie	F	5
-Charlotta	F	5
-Clair	F	5
-Concepcion	F	5
-Cordella	F	5
-Corrine	F	5
-Delila	F	5
-Delphine	F	5
-Dosha	F	5
-Edgar	F	5
-Elaine	F	5
-Elisa	F	5
-Ellar	F	5
-Elmire	F	5
-Elvina	F	5
-Ena	F	5
-Estie	F	5
-Etter	F	5
-Fronnie	F	5
-Genie	F	5
-Georgina	F	5
-Glenn	F	5
-Gracia	F	5
-Guadalupe	F	5
-Gwendolyn	F	5
-Hassie	F	5
-Honora	F	5
-Icy	F	5
-Isa	F	5
-Isadora	F	5
-Jesse	F	5
-Jewel	F	5
-Joe	F	5
-Johannah	F	5
-Juana	F	5
-Judith	F	5
-Judy	F	5
-Junie	F	5
-Lavonia	F	5
-Lella	F	5
-Lemma	F	5
-Letty	F	5
-Linna	F	5
-Littie	F	5
-Lollie	F	5
-Lorene	F	5
-Louis	F	5
-Love	F	5
-Lovisa	F	5
-Lucina	F	5
-Lynn	F	5
-Madora	F	5
-Mahalia	F	5
-Manervia	F	5
-Manuela	F	5
-Margarett	F	5
-Margaretta	F	5
-Margarita	F	5
-Marilla	F	5
-Mignon	F	5
-Mozella	F	5
-Natalie	F	5
-Nelia	F	5
-Nolie	F	5
-Omie	F	5
-Opal	F	5
-Ossie	F	5
-Ottie	F	5
-Ottilia	F	5
-Parthenia	F	5
-Penelope	F	5
-Pinkey	F	5
-Pollie	F	5
-Rennie	F	5
-Reta	F	5
-Roena	F	5
-Rosalee	F	5
-Roseanna	F	5
-Ruthie	F	5
-Sabra	F	5
-Sannie	F	5
-Selena	F	5
-Sibyl	F	5
-Tella	F	5
-Tempie	F	5
-Tennessee	F	5
-Teressa	F	5
-Texas	F	5
-Theda	F	5
-Thelma	F	5
-Thursa	F	5
-Ula	F	5
-Vannie	F	5
-Verona	F	5
-Vertie	F	5
-Wilma	F	5
-John	M	9655
-William	M	9533
-James	M	5927
-Charles	M	5348
-George	M	5126
-Frank	M	3242
-Joseph	M	2632
-Thomas	M	2534
-Henry	M	2444
-Robert	M	2416
-Edward	M	2364
-Harry	M	2152
-Walter	M	1755
-Arthur	M	1599
-Fred	M	1569
-Albert	M	1493
-Samuel	M	1024
-David	M	869
-Louis	M	828
-Joe	M	731
-Charlie	M	730
-Clarence	M	730
-Richard	M	728
-Andrew	M	644
-Daniel	M	643
-Ernest	M	615
-Will	M	588
-Jesse	M	569
-Oscar	M	544
-Lewis	M	517
-Peter	M	496
-Benjamin	M	490
-Frederick	M	483
-Willie	M	476
-Alfred	M	469
-Sam	M	457
-Roy	M	440
-Herbert	M	424
-Jacob	M	404
-Tom	M	399
-Elmer	M	373
-Carl	M	372
-Lee	M	361
-Howard	M	357
-Martin	M	357
-Michael	M	354
-Bert	M	348
-Herman	M	347
-Jim	M	345
-Francis	M	344
-Harvey	M	344
-Earl	M	335
-Eugene	M	328
-Ralph	M	317
-Ed	M	310
-Claude	M	309
-Edwin	M	309
-Ben	M	305
-Charley	M	305
-Paul	M	301
-Edgar	M	283
-Isaac	M	274
-Otto	M	271
-Luther	M	260
-Lawrence	M	257
-Ira	M	249
-Patrick	M	248
-Guy	M	239
-Oliver	M	234
-Theodore	M	232
-Hugh	M	224
-Clyde	M	221
-Alexander	M	211
-August	M	210
-Floyd	M	206
-Homer	M	205
-Jack	M	204
-Leonard	M	200
-Horace	M	199
-Marion	M	189
-Philip	M	186
-Allen	M	184
-Archie	M	183
-Stephen	M	176
-Chester	M	168
-Willis	M	166
-Raymond	M	165
-Rufus	M	163
-Warren	M	158
-Jessie	M	154
-Milton	M	149
-Alex	M	147
-Leo	M	147
-Julius	M	143
-Ray	M	142
-Sidney	M	142
-Bernard	M	140
-Dan	M	140
-Jerry	M	136
-Calvin	M	134
-Perry	M	134
-Dave	M	131
-Anthony	M	130
-Eddie	M	129
-Amos	M	128
-Dennis	M	128
-Clifford	M	127
-Leroy	M	124
-Wesley	M	123
-Alonzo	M	122
-Garfield	M	122
-Franklin	M	120
-Emil	M	119
-Leon	M	118
-Nathan	M	114
-Harold	M	113
-Matthew	M	113
-Levi	M	112
-Moses	M	111
-Everett	M	110
-Lester	M	109
-Winfield	M	108
-Adam	M	104
-Lloyd	M	104
-Mack	M	104
-Fredrick	M	103
-Jay	M	103
-Jess	M	103
-Melvin	M	103
-Noah	M	103
-Aaron	M	102
-Alvin	M	102
-Norman	M	102
-Gilbert	M	101
-Elijah	M	100
-Victor	M	100
-Gus	M	99
-Nelson	M	99
-Jasper	M	98
-Silas	M	98
-Jake	M	96
-Christopher	M	95
-Mike	M	95
-Percy	M	94
-Adolph	M	93
-Maurice	M	93
-Cornelius	M	92
-Felix	M	92
-Reuben	M	92
-Wallace	M	91
-Claud	M	90
-Roscoe	M	90
-Sylvester	M	89
-Earnest	M	88
-Hiram	M	88
-Otis	M	88
-Simon	M	88
-Willard	M	88
-Irvin	M	86
-Mark	M	85
-Jose	M	84
-Wilbur	M	82
-Abraham	M	81
-Virgil	M	81
-Clinton	M	79
-Elbert	M	79
-Leslie	M	79
-Marshall	M	78
-Owen	M	78
-Wiley	M	78
-Anton	M	77
-Morris	M	77
-Manuel	M	75
-Phillip	M	75
-Augustus	M	74
-Emmett	M	74
-Eli	M	73
-Nicholas	M	73
-Wilson	M	72
-Alva	M	70
-Harley	M	70
-Newton	M	70
-Timothy	M	70
-Marvin	M	69
-Ross	M	69
-Curtis	M	68
-Edmund	M	67
-Jeff	M	66
-Elias	M	65
-Harrison	M	65
-Stanley	M	65
-Columbus	M	64
-Lon	M	64
-Ora	M	64
-Ollie	M	63
-Pearl	M	62
-Russell	M	62
-Solomon	M	62
-Arch	M	61
-Asa	M	60
-Clayton	M	60
-Enoch	M	60
-Irving	M	60
-Mathew	M	60
-Nathaniel	M	60
-Scott	M	60
-Hubert	M	59
-Lemuel	M	59
-Andy	M	58
-Ellis	M	58
-Emanuel	M	57
-Joshua	M	57
-Millard	M	56
-Vernon	M	56
-Wade	M	56
-Cyrus	M	54
-Miles	M	54
-Rudolph	M	54
-Sherman	M	54
-Austin	M	53
-Bill	M	53
-Chas	M	53
-Lonnie	M	53
-Monroe	M	53
-Byron	M	52
-Edd	M	52
-Emery	M	52
-Grant	M	52
-Jerome	M	52
-Max	M	52
-Mose	M	52
-Steve	M	52
-Gordon	M	51
-Abe	M	50
-Pete	M	50
-Chris	M	49
-Clark	M	49
-Gustave	M	49
-Orville	M	49
-Lorenzo	M	48
-Bruce	M	47
-Marcus	M	47
-Preston	M	47
-Bob	M	46
-Dock	M	46
-Donald	M	46
-Jackson	M	46
-Cecil	M	45
-Barney	M	44
-Delbert	M	44
-Edmond	M	44
-Anderson	M	43
-Christian	M	43
-Glenn	M	43
-Jefferson	M	43
-Luke	M	43
-Neal	M	43
-Burt	M	42
-Ike	M	42
-Myron	M	42
-Tony	M	42
-Conrad	M	41
-Joel	M	41
-Matt	M	41
-Riley	M	41
-Vincent	M	41
-Emory	M	40
-Isaiah	M	40
-Nick	M	40
-Ezra	M	39
-Green	M	39
-Juan	M	39
-Clifton	M	38
-Lucius	M	38
-Porter	M	38
-Arnold	M	37
-Bud	M	37
-Jeremiah	M	37
-Taylor	M	37
-Forrest	M	36
-Roland	M	36
-Spencer	M	35
-Burton	M	34
-Don	M	34
-Emmet	M	34
-Gustav	M	33
-Louie	M	33
-Morgan	M	33
-Ned	M	33
-Van	M	33
-Ambrose	M	32
-Chauncey	M	32
-Elisha	M	32
-Ferdinand	M	32
-General	M	32
-Julian	M	32
-Kenneth	M	32
-Mitchell	M	32
-Allie	M	31
-Josh	M	31
-Judson	M	31
-Lyman	M	31
-Napoleon	M	31
-Pedro	M	31
-Berry	M	30
-Dewitt	M	30
-Ervin	M	30
-Forest	M	30
-Lynn	M	30
-Pink	M	30
-Ruben	M	30
-Sanford	M	30
-Ward	M	30
-Douglas	M	29
-Ole	M	29
-Omer	M	29
-Ulysses	M	29
-Walker	M	29
-Wilbert	M	29
-Adelbert	M	28
-Benjiman	M	28
-Ivan	M	28
-Jonas	M	28
-Major	M	28
-Abner	M	27
-Archibald	M	27
-Caleb	M	27
-Clint	M	27
-Dudley	M	27
-Granville	M	27
-King	M	27
-Mary	M	27
-Merton	M	27
-Antonio	M	26
-Bennie	M	26
-Carroll	M	26
-Freeman	M	26
-Josiah	M	26
-Milo	M	26
-Royal	M	26
-Dick	M	25
-Earle	M	25
-Elza	M	25
-Emerson	M	25
-Fletcher	M	25
-Judge	M	25
-Laurence	M	25
-Neil	M	25
-Roger	M	25
-Seth	M	25
-Glen	M	24
-Hugo	M	24
-Jimmie	M	24
-Johnnie	M	24
-Washington	M	24
-Elwood	M	23
-Gust	M	23
-Harmon	M	23
-Jordan	M	23
-Simeon	M	23
-Wayne	M	23
-Wilber	M	23
-Clem	M	22
-Evan	M	22
-Frederic	M	22
-Irwin	M	22
-Junius	M	22
-Lafayette	M	22
-Loren	M	22
-Madison	M	22
-Mason	M	22
-Orval	M	22
-Abram	M	21
-Aubrey	M	21
-Elliott	M	21
-Hans	M	21
-Karl	M	21
-Minor	M	21
-Wash	M	21
-Wilfred	M	21
-Allan	M	20
-Alphonse	M	20
-Dallas	M	20
-Dee	M	20
-Isiah	M	20
-Jason	M	20
-Johnny	M	20
-Lawson	M	20
-Lew	M	20
-Micheal	M	20
-Orin	M	20
-Addison	M	19
-Cal	M	19
-Erastus	M	19
-Francisco	M	19
-Hardy	M	19
-Lucien	M	19
-Randolph	M	19
-Stewart	M	19
-Vern	M	19
-Wilmer	M	19
-Zack	M	19
-Adrian	M	18
-Alvah	M	18
-Bertram	M	18
-Clay	M	18
-Ephraim	M	18
-Fritz	M	18
-Giles	M	18
-Grover	M	18
-Harris	M	18
-Isom	M	18
-Jesus	M	18
-Johnie	M	18
-Jonathan	M	18
-Lucian	M	18
-Malcolm	M	18
-Merritt	M	18
-Otho	M	18
-Perley	M	18
-Rolla	M	18
-Sandy	M	18
-Tomas	M	18
-Wilford	M	18
-Adolphus	M	17
-Angus	M	17
-Arther	M	17
-Carlos	M	17
-Cary	M	17
-Cassius	M	17
-Davis	M	17
-Hamilton	M	17
-Harve	M	17
-Israel	M	17
-Leander	M	17
-Melville	M	17
-Merle	M	17
-Murray	M	17
-Pleasant	M	17
-Sterling	M	17
-Steven	M	17
-Axel	M	16
-Boyd	M	16
-Bryant	M	16
-Clement	M	16
-Erwin	M	16
-Ezekiel	M	16
-Foster	M	16
-Frances	M	16
-Geo	M	16
-Houston	M	16
-Issac	M	16
-Jules	M	16
-Larkin	M	16
-Mat	M	16
-Morton	M	16
-Orlando	M	16
-Pierce	M	16
-Prince	M	16
-Rollie	M	16
-Rollin	M	16
-Sim	M	16
-Stuart	M	16
-Wilburn	M	16
-Bennett	M	15
-Casper	M	15
-Christ	M	15
-Dell	M	15
-Egbert	M	15
-Elmo	M	15
-Fay	M	15
-Gabriel	M	15
-Hector	M	15
-Horatio	M	15
-Lige	M	15
-Saul	M	15
-Smith	M	15
-Squire	M	15
-Tobe	M	15
-Tommie	M	15
-Wyatt	M	15
-Alford	M	14
-Alma	M	14
-Alton	M	14
-Andres	M	14
-Burl	M	14
-Cicero	M	14
-Dean	M	14
-Dorsey	M	14
-Enos	M	14
-Howell	M	14
-Lou	M	14
-Loyd	M	14
-Mahlon	M	14
-Nat	M	14
-Omar	M	14
-Oran	M	14
-Parker	M	14
-Raleigh	M	14
-Reginald	M	14
-Rubin	M	14
-Seymour	M	14
-Wm	M	14
-Young	M	14
-Benjamine	M	13
-Carey	M	13
-Carlton	M	13
-Eldridge	M	13
-Elzie	M	13
-Garrett	M	13
-Isham	M	13
-Johnson	M	13
-Larry	M	13
-Logan	M	13
-Merrill	M	13
-Mont	M	13
-Oren	M	13
-Pierre	M	13
-Rex	M	13
-Rodney	M	13
-Ted	M	13
-Webster	M	13
-West	M	13
-Wheeler	M	13
-Willam	M	13
-Al	M	12
-Aloysius	M	12
-Alvie	M	12
-Anna	M	12
-Art	M	12
-Augustine	M	12
-Bailey	M	12
-Benjaman	M	12
-Beverly	M	12
-Bishop	M	12
-Clair	M	12
-Cloyd	M	12
-Coleman	M	12
-Dana	M	12
-Duncan	M	12
-Dwight	M	12
-Emile	M	12
-Evert	M	12
-Henderson	M	12
-Hunter	M	12
-Jean	M	12
-Lem	M	12
-Luis	M	12
-Mathias	M	12
-Maynard	M	12
-Miguel	M	12
-Mortimer	M	12
-Nels	M	12
-Norris	M	12
-Pat	M	12
-Phil	M	12
-Rush	M	12
-Santiago	M	12
-Sol	M	12
-Sydney	M	12
-Thaddeus	M	12
-Thornton	M	12
-Tim	M	12
-Travis	M	12
-Truman	M	12
-Watson	M	12
-Webb	M	12
-Wellington	M	12
-Winfred	M	12
-Wylie	M	12
-Alec	M	11
-Basil	M	11
-Baxter	M	11
-Bertrand	M	11
-Buford	M	11
-Burr	M	11
-Cleveland	M	11
-Colonel	M	11
-Dempsey	M	11
-Early	M	11
-Ellsworth	M	11
-Fate	M	11
-Finley	M	11
-Gabe	M	11
-Garland	M	11
-Gerald	M	11
-Herschel	M	11
-Hezekiah	M	11
-Justus	M	11
-Lindsey	M	11
-Marcellus	M	11
-Olaf	M	11
-Olin	M	11
-Pablo	M	11
-Rolland	M	11
-Turner	M	11
-Verne	M	11
-Volney	M	11
-Williams	M	11
-Almon	M	10
-Alois	M	10
-Alonza	M	10
-Anson	M	10
-Authur	M	10
-Benton	M	10
-Billie	M	10
-Cornelious	M	10
-Darius	M	10
-Denis	M	10
-Dillard	M	10
-Doctor	M	10
-Elvin	M	10
-Emma	M	10
-Eric	M	10
-Evans	M	10
-Gideon	M	10
-Haywood	M	10
-Hilliard	M	10
-Hosea	M	10
-Lincoln	M	10
-Lonzo	M	10
-Lucious	M	10
-Lum	M	10
-Malachi	M	10
-Newt	M	10
-Noel	M	10
-Orie	M	10
-Palmer	M	10
-Pinkney	M	10
-Shirley	M	10
-Sumner	M	10
-Terry	M	10
-Urban	M	10
-Uriah	M	10
-Valentine	M	10
-Waldo	M	10
-Warner	M	10
-Wong	M	10
-Zeb	M	10
-Abel	M	9
-Alden	M	9
-Archer	M	9
-Avery	M	9
-Carson	M	9
-Cullen	M	9
-Doc	M	9
-Eben	M	9
-Elige	M	9
-Elizabeth	M	9
-Elmore	M	9
-Ernst	M	9
-Finis	M	9
-Freddie	M	9
-Godfrey	M	9
-Guss	M	9
-Hamp	M	9
-Hermann	M	9
-Isadore	M	9
-Isreal	M	9
-Jones	M	9
-June	M	9
-Lacy	M	9
-Lafe	M	9
-Leland	M	9
-Llewellyn	M	9
-Ludwig	M	9
-Manford	M	9
-Maxwell	M	9
-Minnie	M	9
-Obie	M	9
-Octave	M	9
-Orrin	M	9
-Ossie	M	9
-Oswald	M	9
-Park	M	9
-Parley	M	9
-Ramon	M	9
-Rice	M	9
-Stonewall	M	9
-Theo	M	9
-Tillman	M	9
-Addie	M	8
-Aron	M	8
-Ashley	M	8
-Bernhard	M	8
-Bertie	M	8
-Berton	M	8
-Buster	M	8
-Butler	M	8
-Carleton	M	8
-Carrie	M	8
-Clara	M	8
-Clarance	M	8
-Clare	M	8
-Crawford	M	8
-Danial	M	8
-Dayton	M	8
-Dolphus	M	8
-Elder	M	8
-Ephriam	M	8
-Fayette	M	8
-Felipe	M	8
-Fernando	M	8
-Flem	M	8
-Florence	M	8
-Ford	M	8
-Harlan	M	8
-Hayes	M	8
-Henery	M	8
-Hoy	M	8
-Huston	M	8
-Ida	M	8
-Ivory	M	8
-Jonah	M	8
-Justin	M	8
-Lenard	M	8
-Leopold	M	8
-Lionel	M	8
-Manley	M	8
-Marquis	M	8
-Marshal	M	8
-Mart	M	8
-Odie	M	8
-Olen	M	8
-Oral	M	8
-Orley	M	8
-Otha	M	8
-Press	M	8
-Price	M	8
-Quincy	M	8
-Randall	M	8
-Rich	M	8
-Richmond	M	8
-Romeo	M	8
-Russel	M	8
-Rutherford	M	8
-Shade	M	8
-Shelby	M	8
-Solon	M	8
-Thurman	M	8
-Tilden	M	8
-Troy	M	8
-Woodson	M	8
-Worth	M	8
-Aden	M	7
-Alcide	M	7
-Alf	M	7
-Algie	M	7
-Arlie	M	7
-Bart	M	7
-Bedford	M	7
-Benito	M	7
-Billy	M	7
-Bird	M	7
-Birt	M	7
-Bruno	M	7
-Burley	M	7
-Chancy	M	7
-Claus	M	7
-Cliff	M	7
-Clovis	M	7
-Connie	M	7
-Creed	M	7
-Delos	M	7
-Duke	M	7
-Eber	M	7
-Eligah	M	7
-Elliot	M	7
-Elton	M	7
-Emmitt	M	7
-Gene	M	7
-Golden	M	7
-Hal	M	7
-Hardin	M	7
-Harman	M	7
-Hervey	M	7
-Hollis	M	7
-Ivey	M	7
-Jennie	M	7
-Len	M	7
-Lindsay	M	7
-Lonie	M	7
-Lyle	M	7
-Mac	M	7
-Mal	M	7
-Math	M	7
-Miller	M	7
-Orson	M	7
-Osborne	M	7
-Percival	M	7
-Pleas	M	7
-Ples	M	7
-Rafael	M	7
-Raoul	M	7
-Roderick	M	7
-Rose	M	7
-Shelton	M	7
-Sid	M	7
-Theron	M	7
-Tobias	M	7
-Toney	M	7
-Tyler	M	7
-Vance	M	7
-Vivian	M	7
-Walton	M	7
-Watt	M	7
-Weaver	M	7
-Wilton	M	7
-Adolf	M	6
-Albin	M	6
-Albion	M	6
-Allison	M	6
-Alpha	M	6
-Alpheus	M	6
-Anastacio	M	6
-Andre	M	6
-Annie	M	6
-Arlington	M	6
-Armand	M	6
-Asberry	M	6
-Asbury	M	6
-Asher	M	6
-Augustin	M	6
-Auther	M	6
-Author	M	6
-Ballard	M	6
-Blas	M	6
-Caesar	M	6
-Candido	M	6
-Cato	M	6
-Clarke	M	6
-Clemente	M	6
-Colin	M	6
-Commodore	M	6
-Cora	M	6
-Coy	M	6
-Cruz	M	6
-Curt	M	6
-Damon	M	6
-Davie	M	6
-Delmar	M	6
-Dexter	M	6
-Dora	M	6
-Doss	M	6
-Drew	M	6
-Edson	M	6
-Elam	M	6
-Elihu	M	6
-Eliza	M	6
-Elsie	M	6
-Erie	M	6
-Ernie	M	6
-Ethel	M	6
-Ferd	M	6
-Friend	M	6
-Garry	M	6
-Gary	M	6
-Grace	M	6
-Gustaf	M	6
-Hallie	M	6
-Hampton	M	6
-Harrie	M	6
-Hattie	M	6
-Hence	M	6
-Hillard	M	6
-Hollie	M	6
-Holmes	M	6
-Hope	M	6
-Hyman	M	6
-Ishmael	M	6
-Jarrett	M	6
-Jessee	M	6
-Joeseph	M	6
-Junious	M	6
-Kirk	M	6
-Levy	M	6
-Mervin	M	6
-Michel	M	6
-Milford	M	6
-Mitchel	M	6
-Nellie	M	6
-Noble	M	6
-Obed	M	6
-Oda	M	6
-Orren	M	6
-Ottis	M	6
-Rafe	M	6
-Redden	M	6
-Reese	M	6
-Rube	M	6
-Ruby	M	6
-Rupert	M	6
-Salomon	M	6
-Sammie	M	6
-Sanders	M	6
-Soloman	M	6
-Stacy	M	6
-Stanford	M	6
-Stanton	M	6
-Thad	M	6
-Titus	M	6
-Tracy	M	6
-Vernie	M	6
-Wendell	M	6
-Wilhelm	M	6
-Willian	M	6
-Yee	M	6
-Zeke	M	6
-Ab	M	5
-Abbott	M	5
-Agustus	M	5
-Albertus	M	5
-Almer	M	5
-Alphonso	M	5
-Alvia	M	5
-Artie	M	5
-Arvid	M	5
-Ashby	M	5
-Augusta	M	5
-Aurthur	M	5
-Babe	M	5
-Baldwin	M	5
-Barnett	M	5
-Bartholomew	M	5
-Barton	M	5
-Bernie	M	5
-Blaine	M	5
-Boston	M	5
-Brad	M	5
-Bradford	M	5
-Bradley	M	5
-Brooks	M	5
-Buck	M	5
-Budd	M	5
-Ceylon	M	5
-Chalmers	M	5
-Chesley	M	5
-Chin	M	5
-Cleo	M	5
-Crockett	M	5
-Cyril	M	5
-Daisy	M	5
-Denver	M	5
-Dow	M	5
-Duff	M	5
-Edie	M	5
-Edith	M	5
-Elick	M	5
-Elie	M	5
-Eliga	M	5
-Eliseo	M	5
-Elroy	M	5
-Ely	M	5
-Ennis	M	5
-Enrique	M	5
-Erasmus	M	5
-Esau	M	5
-Everette	M	5
-Firman	M	5
-Fleming	M	5
-Flora	M	5
-Gardner	M	5
-Gee	M	5
-Gorge	M	5
-Gottlieb	M	5
-Gregorio	M	5
-Gregory	M	5
-Gustavus	M	5
-Halsey	M	5
-Handy	M	5
-Hardie	M	5
-Harl	M	5
-Hayden	M	5
-Hays	M	5
-Hermon	M	5
-Hershel	M	5
-Holly	M	5
-Hosteen	M	5
-Hoyt	M	5
-Hudson	M	5
-Huey	M	5
-Humphrey	M	5
-Hunt	M	5
-Hyrum	M	5
-Irven	M	5
-Isam	M	5
-Ivy	M	5
-Jabez	M	5
-Jewel	M	5
-Jodie	M	5
-Judd	M	5
-Julious	M	5
-Justice	M	5
-Katherine	M	5
-Kelly	M	5
-Kit	M	5
-Knute	M	5
-Lavern	M	5
-Lawyer	M	5
-Layton	M	5
-Leonidas	M	5
-Lewie	M	5
-Lillie	M	5
-Linwood	M	5
-Loran	M	5
-Lorin	M	5
-Mace	M	5
-Malcom	M	5
-Manly	M	5
-Manson	M	5
-Matthias	M	5
-Mattie	M	5
-Merida	M	5
-Miner	M	5
-Montgomery	M	5
-Moroni	M	5
-Murdock	M	5
-Myrtle	M	5
-Nate	M	5
-Nathanial	M	5
-Nimrod	M	5
-Nora	M	5
-Norval	M	5
-Nova	M	5
-Orion	M	5
-Orla	M	5
-Orrie	M	5
-Payton	M	5
-Philo	M	5
-Phineas	M	5
-Presley	M	5
-Ransom	M	5
-Reece	M	5
-Rene	M	5
-Roswell	M	5
-Rowland	M	5
-Sampson	M	5
-Samual	M	5
-Santos	M	5
-Schuyler	M	5
-Sheppard	M	5
-Spurgeon	M	5
-Starling	M	5
-Sylvanus	M	5
-Theadore	M	5
-Theophile	M	5
-Tilmon	M	5
-Tommy	M	5
-Unknown	M	5
-Vann	M	5
-Wes	M	5
-Winston	M	5
-Wood	M	5
-Woodie	M	5
-Worthy	M	5
-Wright	M	5
-York	M	5
-Zachariah	M	5
+,name,sex,births
+0,",name,sex,births",,
+1,"0,"",name,sex,births"",,",,
+2,"1,""0,Mary,F,7065"",,",,
+3,"2,""1,Anna,F,2604"",,",,
+4,"3,""2,Emma,F,2003"",,",,
+5,"4,""3,Elizabeth,F,1939"",,",,
+6,"5,""4,Minnie,F,1746"",,",,
+7,"6,""5,Margaret,F,1578"",,",,
+8,"7,""6,Ida,F,1472"",,",,
+9,"8,""7,Alice,F,1414"",,",,
+10,"9,""8,Bertha,F,1320"",,",,
+11,"10,""9,Sarah,F,1288"",,",,
+12,"11,""10,Annie,F,1258"",,",,
+13,"12,""11,Clara,F,1226"",,",,
+14,"13,""12,Ella,F,1156"",,",,
+15,"14,""13,Florence,F,1063"",,",,
+16,"15,""14,Cora,F,1045"",,",,
+17,"16,""15,Martha,F,1040"",,",,
+18,"17,""16,Laura,F,1012"",,",,
+19,"18,""17,Nellie,F,995"",,",,
+20,"19,""18,Grace,F,982"",,",,
+21,"20,""19,Carrie,F,949"",,",,
+22,"21,""20,Maude,F,858"",,",,
+23,"22,""21,Mabel,F,808"",,",,
+24,"23,""22,Bessie,F,794"",,",,
+25,"24,""23,Jennie,F,793"",,",,
+26,"25,""24,Gertrude,F,787"",,",,
+27,"26,""25,Julia,F,783"",,",,
+28,"27,""26,Hattie,F,769"",,",,
+29,"28,""27,Edith,F,768"",,",,
+30,"29,""28,Mattie,F,704"",,",,
+31,"30,""29,Rose,F,700"",,",,
+32,"31,""30,Catherine,F,688"",,",,
+33,"32,""31,Lillian,F,672"",,",,
+34,"33,""32,Ada,F,652"",,",,
+35,"34,""33,Lillie,F,647"",,",,
+36,"35,""34,Helen,F,636"",,",,
+37,"36,""35,Jessie,F,635"",,",,
+38,"37,""36,Louise,F,635"",,",,
+39,"38,""37,Ethel,F,633"",,",,
+40,"39,""38,Lula,F,621"",,",,
+41,"40,""39,Myrtle,F,615"",,",,
+42,"41,""40,Eva,F,614"",,",,
+43,"42,""41,Frances,F,605"",,",,
+44,"43,""42,Lena,F,603"",,",,
+45,"44,""43,Lucy,F,591"",,",,
+46,"45,""44,Edna,F,588"",,",,
+47,"46,""45,Maggie,F,582"",,",,
+48,"47,""46,Pearl,F,569"",,",,
+49,"48,""47,Daisy,F,564"",,",,
+50,"49,""48,Fannie,F,560"",,",,
+51,"50,""49,Josephine,F,544"",,",,
+52,"51,""50,Dora,F,524"",,",,
+53,"52,""51,Rosa,F,507"",,",,
+54,"53,""52,Katherine,F,502"",,",,
+55,"54,""53,Agnes,F,473"",,",,
+56,"55,""54,Marie,F,471"",,",,
+57,"56,""55,Nora,F,471"",,",,
+58,"57,""56,May,F,462"",,",,
+59,"58,""57,Mamie,F,436"",,",,
+60,"59,""58,Blanche,F,427"",,",,
+61,"60,""59,Stella,F,414"",,",,
+62,"61,""60,Ellen,F,411"",,",,
+63,"62,""61,Nancy,F,411"",,",,
+64,"63,""62,Effie,F,406"",,",,
+65,"64,""63,Sallie,F,404"",,",,
+66,"65,""64,Nettie,F,403"",,",,
+67,"66,""65,Della,F,391"",,",,
+68,"67,""66,Lizzie,F,388"",,",,
+69,"68,""67,Flora,F,365"",,",,
+70,"69,""68,Susie,F,361"",,",,
+71,"70,""69,Maud,F,345"",,",,
+72,"71,""70,Mae,F,344"",,",,
+73,"72,""71,Etta,F,323"",,",,
+74,"73,""72,Harriet,F,319"",,",,
+75,"74,""73,Sadie,F,317"",,",,
+76,"75,""74,Caroline,F,306"",,",,
+77,"76,""75,Katie,F,303"",,",,
+78,"77,""76,Lydia,F,302"",,",,
+79,"78,""77,Elsie,F,301"",,",,
+80,"79,""78,Kate,F,299"",,",,
+81,"80,""79,Susan,F,286"",,",,
+82,"81,""80,Mollie,F,283"",,",,
+83,"82,""81,Alma,F,277"",,",,
+84,"83,""82,Addie,F,274"",,",,
+85,"84,""83,Georgia,F,259"",,",,
+86,"85,""84,Eliza,F,252"",,",,
+87,"86,""85,Lulu,F,249"",,",,
+88,"87,""86,Nannie,F,248"",,",,
+89,"88,""87,Lottie,F,245"",,",,
+90,"89,""88,Amanda,F,241"",,",,
+91,"90,""89,Belle,F,238"",,",,
+92,"91,""90,Charlotte,F,237"",,",,
+93,"92,""91,Rebecca,F,236"",,",,
+94,"93,""92,Ruth,F,234"",,",,
+95,"94,""93,Viola,F,229"",,",,
+96,"95,""94,Olive,F,224"",,",,
+97,"96,""95,Amelia,F,221"",,",,
+98,"97,""96,Hannah,F,221"",,",,
+99,"98,""97,Jane,F,215"",,",,
+100,"99,""98,Virginia,F,213"",,",,
+101,"100,""99,Emily,F,210"",,",,
+102,"101,""100,Matilda,F,210"",,",,
+103,"102,""101,Irene,F,204"",,",,
+104,"103,""102,Kathryn,F,204"",,",,
+105,"104,""103,Esther,F,198"",,",,
+106,"105,""104,Willie,F,192"",,",,
+107,"106,""105,Henrietta,F,191"",,",,
+108,"107,""106,Ollie,F,183"",,",,
+109,"108,""107,Amy,F,167"",,",,
+110,"109,""108,Rachel,F,166"",,",,
+111,"110,""109,Sara,F,165"",,",,
+112,"111,""110,Estella,F,162"",,",,
+113,"112,""111,Theresa,F,153"",,",,
+114,"113,""112,Augusta,F,151"",,",,
+115,"114,""113,Ora,F,149"",,",,
+116,"115,""114,Pauline,F,144"",,",,
+117,"116,""115,Josie,F,141"",,",,
+118,"117,""116,Lola,F,138"",,",,
+119,"118,""117,Sophia,F,138"",,",,
+120,"119,""118,Leona,F,137"",,",,
+121,"120,""119,Anne,F,136"",,",,
+122,"121,""120,Mildred,F,132"",,",,
+123,"122,""121,Ann,F,131"",,",,
+124,"123,""122,Beulah,F,131"",,",,
+125,"124,""123,Callie,F,131"",,",,
+126,"125,""124,Lou,F,131"",,",,
+127,"126,""125,Delia,F,129"",,",,
+128,"127,""126,Eleanor,F,129"",,",,
+129,"128,""127,Barbara,F,127"",,",,
+130,"129,""128,Iva,F,127"",,",,
+131,"130,""129,Louisa,F,126"",,",,
+132,"131,""130,Maria,F,125"",,",,
+133,"132,""131,Mayme,F,124"",,",,
+134,"133,""132,Evelyn,F,122"",,",,
+135,"134,""133,Estelle,F,119"",,",,
+136,"135,""134,Nina,F,119"",,",,
+137,"136,""135,Betty,F,117"",,",,
+138,"137,""136,Marion,F,115"",,",,
+139,"138,""137,Bettie,F,113"",,",,
+140,"139,""138,Dorothy,F,112"",,",,
+141,"140,""139,Luella,F,111"",,",,
+142,"141,""140,Inez,F,106"",,",,
+143,"142,""141,Lela,F,106"",,",,
+144,"143,""142,Rosie,F,106"",,",,
+145,"144,""143,Allie,F,105"",,",,
+146,"145,""144,Millie,F,105"",,",,
+147,"146,""145,Janie,F,96"",,",,
+148,"147,""146,Cornelia,F,94"",,",,
+149,"148,""147,Victoria,F,93"",,",,
+150,"149,""148,Ruby,F,92"",,",,
+151,"150,""149,Winifred,F,92"",,",,
+152,"151,""150,Alta,F,91"",,",,
+153,"152,""151,Celia,F,90"",,",,
+154,"153,""152,Christine,F,89"",,",,
+155,"154,""153,Beatrice,F,87"",,",,
+156,"155,""154,Birdie,F,85"",,",,
+157,"156,""155,Harriett,F,83"",,",,
+158,"157,""156,Mable,F,83"",,",,
+159,"158,""157,Myra,F,83"",,",,
+160,"159,""158,Sophie,F,83"",,",,
+161,"160,""159,Tillie,F,83"",,",,
+162,"161,""160,Isabel,F,81"",,",,
+163,"162,""161,Sylvia,F,81"",,",,
+164,"163,""162,Carolyn,F,80"",,",,
+165,"164,""163,Isabelle,F,80"",,",,
+166,"165,""164,Leila,F,80"",,",,
+167,"166,""165,Sally,F,80"",,",,
+168,"167,""166,Ina,F,79"",,",,
+169,"168,""167,Essie,F,78"",,",,
+170,"169,""168,Bertie,F,77"",,",,
+171,"170,""169,Nell,F,77"",,",,
+172,"171,""170,Alberta,F,76"",,",,
+173,"172,""171,Katharine,F,76"",,",,
+174,"173,""172,Lora,F,74"",,",,
+175,"174,""173,Rena,F,74"",,",,
+176,"175,""174,Mina,F,73"",,",,
+177,"176,""175,Rhoda,F,73"",,",,
+178,"177,""176,Mathilda,F,72"",,",,
+179,"178,""177,Abbie,F,71"",,",,
+180,"179,""178,Eula,F,70"",,",,
+181,"180,""179,Dollie,F,69"",,",,
+182,"181,""180,Hettie,F,69"",,",,
+183,"182,""181,Eunice,F,67"",,",,
+184,"183,""182,Fanny,F,67"",,",,
+185,"184,""183,Ola,F,67"",,",,
+186,"185,""184,Lenora,F,66"",,",,
+187,"186,""185,Adelaide,F,65"",,",,
+188,"187,""186,Christina,F,65"",,",,
+189,"188,""187,Lelia,F,65"",,",,
+190,"189,""188,Nelle,F,65"",,",,
+191,"190,""189,Sue,F,65"",,",,
+192,"191,""190,Johanna,F,64"",,",,
+193,"192,""191,Lilly,F,64"",,",,
+194,"193,""192,Lucinda,F,63"",,",,
+195,"194,""193,Minerva,F,63"",,",,
+196,"195,""194,Lettie,F,62"",,",,
+197,"196,""195,Roxie,F,62"",,",,
+198,"197,""196,Cynthia,F,61"",,",,
+199,"198,""197,Helena,F,60"",,",,
+200,"199,""198,Hilda,F,60"",,",,
+201,"200,""199,Hulda,F,60"",,",,
+202,"201,""200,Bernice,F,59"",,",,
+203,"202,""201,Genevieve,F,59"",,",,
+204,"203,""202,Jean,F,59"",,",,
+205,"204,""203,Cordelia,F,58"",,",,
+206,"205,""204,Marian,F,56"",,",,
+207,"206,""205,Francis,F,55"",,",,
+208,"207,""206,Jeanette,F,55"",,",,
+209,"208,""207,Adeline,F,54"",,",,
+210,"209,""208,Gussie,F,54"",,",,
+211,"210,""209,Leah,F,54"",,",,
+212,"211,""210,Lois,F,53"",,",,
+213,"212,""211,Lura,F,53"",,",,
+214,"213,""212,Mittie,F,53"",,",,
+215,"214,""213,Hallie,F,51"",,",,
+216,"215,""214,Isabella,F,50"",,",,
+217,"216,""215,Olga,F,50"",,",,
+218,"217,""216,Phoebe,F,50"",,",,
+219,"218,""217,Teresa,F,50"",,",,
+220,"219,""218,Hester,F,49"",,",,
+221,"220,""219,Lida,F,49"",,",,
+222,"221,""220,Lina,F,49"",,",,
+223,"222,""221,Winnie,F,49"",,",,
+224,"223,""222,Claudia,F,48"",,",,
+225,"224,""223,Marguerite,F,48"",,",,
+226,"225,""224,Vera,F,48"",,",,
+227,"226,""225,Cecelia,F,47"",,",,
+228,"227,""226,Bess,F,46"",,",,
+229,"228,""227,Emilie,F,46"",,",,
+230,"229,""228,John,F,46"",,",,
+231,"230,""229,Rosetta,F,46"",,",,
+232,"231,""230,Verna,F,46"",,",,
+233,"232,""231,Myrtie,F,45"",,",,
+234,"233,""232,Cecilia,F,44"",,",,
+235,"234,""233,Elva,F,44"",,",,
+236,"235,""234,Olivia,F,44"",,",,
+237,"236,""235,Ophelia,F,44"",,",,
+238,"237,""236,Georgie,F,43"",,",,
+239,"238,""237,Elnora,F,42"",,",,
+240,"239,""238,Violet,F,42"",,",,
+241,"240,""239,Adele,F,41"",,",,
+242,"241,""240,Lily,F,41"",,",,
+243,"242,""241,Linnie,F,41"",,",,
+244,"243,""242,Loretta,F,41"",,",,
+245,"244,""243,Madge,F,41"",,",,
+246,"245,""244,Polly,F,41"",,",,
+247,"246,""245,Virgie,F,41"",,",,
+248,"247,""246,Eugenia,F,40"",,",,
+249,"248,""247,Lucile,F,40"",,",,
+250,"249,""248,Lucille,F,40"",,",,
+251,"250,""249,Mabelle,F,39"",,",,
+252,"251,""250,Rosalie,F,39"",,",,
+253,"252,""251,Kittie,F,38"",,",,
+254,"253,""252,Meta,F,37"",,",,
+255,"254,""253,Angie,F,36"",,",,
+256,"255,""254,Dessie,F,36"",,",,
+257,"256,""255,Georgiana,F,36"",,",,
+258,"257,""256,Lila,F,36"",,",,
+259,"258,""257,Regina,F,36"",,",,
+260,"259,""258,Selma,F,36"",,",,
+261,"260,""259,Wilhelmina,F,36"",,",,
+262,"261,""260,Bridget,F,35"",,",,
+263,"262,""261,Lilla,F,35"",,",,
+264,"263,""262,Malinda,F,35"",,",,
+265,"264,""263,Vina,F,35"",,",,
+266,"265,""264,Freda,F,34"",,",,
+267,"266,""265,Gertie,F,34"",,",,
+268,"267,""266,Jeannette,F,34"",,",,
+269,"268,""267,Louella,F,34"",,",,
+270,"269,""268,Mandy,F,34"",,",,
+271,"270,""269,Roberta,F,34"",,",,
+272,"271,""270,Cassie,F,33"",,",,
+273,"272,""271,Corinne,F,33"",,",,
+274,"273,""272,Ivy,F,33"",,",,
+275,"274,""273,Melissa,F,33"",,",,
+276,"275,""274,Lyda,F,32"",,",,
+277,"276,""275,Naomi,F,32"",,",,
+278,"277,""276,Norma,F,32"",,",,
+279,"278,""277,Bell,F,31"",,",,
+280,"279,""278,Margie,F,31"",,",,
+281,"280,""279,Nona,F,31"",,",,
+282,"281,""280,Zella,F,31"",,",,
+283,"282,""281,Dovie,F,30"",,",,
+284,"283,""282,Elvira,F,30"",,",,
+285,"284,""283,Erma,F,30"",,",,
+286,"285,""284,Irma,F,30"",,",,
+287,"286,""285,Leota,F,30"",,",,
+288,"287,""286,William,F,30"",,",,
+289,"288,""287,Artie,F,29"",,",,
+290,"289,""288,Blanch,F,29"",,",,
+291,"290,""289,Charity,F,29"",,",,
+292,"291,""290,Janet,F,29"",,",,
+293,"292,""291,Lorena,F,29"",,",,
+294,"293,""292,Lucretia,F,29"",,",,
+295,"294,""293,Orpha,F,29"",,",,
+296,"295,""294,Alvina,F,28"",,",,
+297,"296,""295,Annette,F,28"",,",,
+298,"297,""296,Catharine,F,28"",,",,
+299,"298,""297,Elma,F,28"",,",,
+300,"299,""298,Geneva,F,28"",,",,
+301,"300,""299,Lee,F,28"",,",,
+302,"301,""300,Leora,F,28"",,",,
+303,"302,""301,Lona,F,28"",,",,
+304,"303,""302,Miriam,F,28"",,",,
+305,"304,""303,Zora,F,28"",,",,
+306,"305,""304,Linda,F,27"",,",,
+307,"306,""305,Octavia,F,27"",,",,
+308,"307,""306,Sudie,F,27"",,",,
+309,"308,""307,Zula,F,27"",,",,
+310,"309,""308,Adella,F,26"",,",,
+311,"310,""309,Alpha,F,26"",,",,
+312,"311,""310,Frieda,F,26"",,",,
+313,"312,""311,George,F,26"",,",,
+314,"313,""312,Joanna,F,26"",,",,
+315,"314,""313,Leonora,F,26"",,",,
+316,"315,""314,Priscilla,F,26"",,",,
+317,"316,""315,Tennie,F,26"",,",,
+318,"317,""316,Angeline,F,25"",,",,
+319,"318,""317,Docia,F,25"",,",,
+320,"319,""318,Ettie,F,25"",,",,
+321,"320,""319,Flossie,F,25"",,",,
+322,"321,""320,Hanna,F,25"",,",,
+323,"322,""321,Letha,F,25"",,",,
+324,"323,""322,Minta,F,25"",,",,
+325,"324,""323,Retta,F,25"",,",,
+326,"325,""324,Rosella,F,25"",,",,
+327,"326,""325,Adah,F,24"",,",,
+328,"327,""326,Berta,F,24"",,",,
+329,"328,""327,Elisabeth,F,24"",,",,
+330,"329,""328,Elise,F,24"",,",,
+331,"330,""329,Goldie,F,24"",,",,
+332,"331,""330,Leola,F,24"",,",,
+333,"332,""331,Margret,F,24"",,",,
+334,"333,""332,Adaline,F,23"",,",,
+335,"334,""333,Floy,F,23"",,",,
+336,"335,""334,Idella,F,23"",,",,
+337,"336,""335,Juanita,F,23"",,",,
+338,"337,""336,Lenna,F,23"",,",,
+339,"338,""337,Lucie,F,23"",,",,
+340,"339,""338,Missouri,F,23"",,",,
+341,"340,""339,Nola,F,23"",,",,
+342,"341,""340,Zoe,F,23"",,",,
+343,"342,""341,Eda,F,22"",,",,
+344,"343,""342,Isabell,F,22"",,",,
+345,"344,""343,James,F,22"",,",,
+346,"345,""344,Julie,F,22"",,",,
+347,"346,""345,Letitia,F,22"",,",,
+348,"347,""346,Madeline,F,22"",,",,
+349,"348,""347,Malissa,F,22"",,",,
+350,"349,""348,Mariah,F,22"",,",,
+351,"350,""349,Pattie,F,22"",,",,
+352,"351,""350,Vivian,F,22"",,",,
+353,"352,""351,Almeda,F,21"",,",,
+354,"353,""352,Aurelia,F,21"",,",,
+355,"354,""353,Claire,F,21"",,",,
+356,"355,""354,Dolly,F,21"",,",,
+357,"356,""355,Hazel,F,21"",,",,
+358,"357,""356,Jannie,F,21"",,",,
+359,"358,""357,Kathleen,F,21"",,",,
+360,"359,""358,Kathrine,F,21"",,",,
+361,"360,""359,Lavinia,F,21"",,",,
+362,"361,""360,Marietta,F,21"",,",,
+363,"362,""361,Melvina,F,21"",,",,
+364,"363,""362,Ona,F,21"",,",,
+365,"364,""363,Pinkie,F,21"",,",,
+366,"365,""364,Samantha,F,21"",,",,
+367,"366,""365,Susanna,F,21"",,",,
+368,"367,""366,Chloe,F,20"",,",,
+369,"368,""367,Donnie,F,20"",,",,
+370,"369,""368,Elsa,F,20"",,",,
+371,"370,""369,Gladys,F,20"",,",,
+372,"371,""370,Matie,F,20"",,",,
+373,"372,""371,Pearle,F,20"",,",,
+374,"373,""372,Vesta,F,20"",,",,
+375,"374,""373,Vinnie,F,20"",,",,
+376,"375,""374,Antoinette,F,19"",,",,
+377,"376,""375,Clementine,F,19"",,",,
+378,"377,""376,Edythe,F,19"",,",,
+379,"378,""377,Harriette,F,19"",,",,
+380,"379,""378,Libbie,F,19"",,",,
+381,"380,""379,Lilian,F,19"",,",,
+382,"381,""380,Lue,F,19"",,",,
+383,"382,""381,Lutie,F,19"",,",,
+384,"383,""382,Magdalena,F,19"",,",,
+385,"384,""383,Meda,F,19"",,",,
+386,"385,""384,Rita,F,19"",,",,
+387,"386,""385,Tena,F,19"",,",,
+388,"387,""386,Zelma,F,19"",,",,
+389,"388,""387,Adelia,F,18"",,",,
+390,"389,""388,Annetta,F,18"",,",,
+391,"390,""389,Antonia,F,18"",,",,
+392,"391,""390,Dona,F,18"",,",,
+393,"392,""391,Elizebeth,F,18"",,",,
+394,"393,""392,Georgianna,F,18"",,",,
+395,"394,""393,Gracie,F,18"",,",,
+396,"395,""394,Iona,F,18"",,",,
+397,"396,""395,Lessie,F,18"",,",,
+398,"397,""396,Leta,F,18"",,",,
+399,"398,""397,Liza,F,18"",,",,
+400,"399,""398,Mertie,F,18"",,",,
+401,"400,""399,Molly,F,18"",,",,
+402,"401,""400,Neva,F,18"",,",,
+403,"402,""401,Oma,F,18"",,",,
+404,"403,""402,Alida,F,17"",,",,
+405,"404,""403,Alva,F,17"",,",,
+406,"405,""404,Cecile,F,17"",,",,
+407,"406,""405,Cleo,F,17"",,",,
+408,"407,""406,Donna,F,17"",,",,
+409,"408,""407,Ellie,F,17"",,",,
+410,"409,""408,Ernestine,F,17"",,",,
+411,"410,""409,Evie,F,17"",,",,
+412,"411,""410,Frankie,F,17"",,",,
+413,"412,""411,Helene,F,17"",,",,
+414,"413,""412,Minna,F,17"",,",,
+415,"414,""413,Myrta,F,17"",,",,
+416,"415,""414,Prudence,F,17"",,",,
+417,"416,""415,Queen,F,17"",,",,
+418,"417,""416,Rilla,F,17"",,",,
+419,"418,""417,Savannah,F,17"",,",,
+420,"419,""418,Tessie,F,17"",,",,
+421,"420,""419,Tina,F,17"",,",,
+422,"421,""420,Agatha,F,16"",,",,
+423,"422,""421,America,F,16"",,",,
+424,"423,""422,Anita,F,16"",,",,
+425,"424,""423,Arminta,F,16"",,",,
+426,"425,""424,Dorothea,F,16"",,",,
+427,"426,""425,Ira,F,16"",,",,
+428,"427,""426,Luvenia,F,16"",,",,
+429,"428,""427,Marjorie,F,16"",,",,
+430,"429,""428,Maybelle,F,16"",,",,
+431,"430,""429,Mellie,F,16"",,",,
+432,"431,""430,Nan,F,16"",,",,
+433,"432,""431,Pearlie,F,16"",,",,
+434,"433,""432,Sidney,F,16"",,",,
+435,"434,""433,Velma,F,16"",,",,
+436,"435,""434,Clare,F,15"",,",,
+437,"436,""435,Constance,F,15"",,",,
+438,"437,""436,Dixie,F,15"",,",,
+439,"438,""437,Ila,F,15"",,",,
+440,"439,""438,Iola,F,15"",,",,
+441,"440,""439,Jimmie,F,15"",,",,
+442,"441,""440,Louvenia,F,15"",,",,
+443,"442,""441,Lucia,F,15"",,",,
+444,"443,""442,Ludie,F,15"",,",,
+445,"444,""443,Luna,F,15"",,",,
+446,"445,""444,Metta,F,15"",,",,
+447,"446,""445,Patsy,F,15"",,",,
+448,"447,""446,Phebe,F,15"",,",,
+449,"448,""447,Sophronia,F,15"",,",,
+450,"449,""448,Adda,F,14"",,",,
+451,"450,""449,Avis,F,14"",,",,
+452,"451,""450,Betsy,F,14"",,",,
+453,"452,""451,Bonnie,F,14"",,",,
+454,"453,""452,Cecil,F,14"",,",,
+455,"454,""453,Cordie,F,14"",,",,
+456,"455,""454,Emmaline,F,14"",,",,
+457,"456,""455,Ethelyn,F,14"",,",,
+458,"457,""456,Hortense,F,14"",,",,
+459,"458,""457,June,F,14"",,",,
+460,"459,""458,Louie,F,14"",,",,
+461,"460,""459,Lovie,F,14"",,",,
+462,"461,""460,Marcella,F,14"",,",,
+463,"462,""461,Melinda,F,14"",,",,
+464,"463,""462,Mona,F,14"",,",,
+465,"464,""463,Odessa,F,14"",,",,
+466,"465,""464,Veronica,F,14"",,",,
+467,"466,""465,Aimee,F,13"",,",,
+468,"467,""466,Annabel,F,13"",,",,
+469,"468,""467,Ava,F,13"",,",,
+470,"469,""468,Bella,F,13"",,",,
+471,"470,""469,Carolina,F,13"",,",,
+472,"471,""470,Cathrine,F,13"",,",,
+473,"472,""471,Christena,F,13"",,",,
+474,"473,""472,Clyde,F,13"",,",,
+475,"474,""473,Dena,F,13"",,",,
+476,"475,""474,Dolores,F,13"",,",,
+477,"476,""475,Eleanore,F,13"",,",,
+478,"477,""476,Elmira,F,13"",,",,
+479,"478,""477,Fay,F,13"",,",,
+480,"479,""478,Frank,F,13"",,",,
+481,"480,""479,Jenny,F,13"",,",,
+482,"481,""480,Kizzie,F,13"",,",,
+483,"482,""481,Lonnie,F,13"",,",,
+484,"483,""482,Loula,F,13"",,",,
+485,"484,""483,Magdalene,F,13"",,",,
+486,"485,""484,Mettie,F,13"",,",,
+487,"486,""485,Mintie,F,13"",,",,
+488,"487,""486,Peggy,F,13"",,",,
+489,"488,""487,Reba,F,13"",,",,
+490,"489,""488,Serena,F,13"",,",,
+491,"490,""489,Vida,F,13"",,",,
+492,"491,""490,Zada,F,13"",,",,
+493,"492,""491,Abigail,F,12"",,",,
+494,"493,""492,Celestine,F,12"",,",,
+495,"494,""493,Celina,F,12"",,",,
+496,"495,""494,Claudie,F,12"",,",,
+497,"496,""495,Clemmie,F,12"",,",,
+498,"497,""496,Connie,F,12"",,",,
+499,"498,""497,Daisie,F,12"",,",,
+500,"499,""498,Deborah,F,12"",,",,
+501,"500,""499,Dessa,F,12"",,",,
+502,"501,""500,Easter,F,12"",,",,
+503,"502,""501,Eddie,F,12"",,",,
+504,"503,""502,Emelia,F,12"",,",,
+505,"504,""503,Emmie,F,12"",,",,
+506,"505,""504,Imogene,F,12"",,",,
+507,"506,""505,India,F,12"",,",,
+508,"507,""506,Jeanne,F,12"",,",,
+509,"508,""507,Joan,F,12"",,",,
+510,"509,""508,Lenore,F,12"",,",,
+511,"510,""509,Liddie,F,12"",,",,
+512,"511,""510,Lotta,F,12"",,",,
+513,"512,""511,Mame,F,12"",,",,
+514,"513,""512,Nevada,F,12"",,",,
+515,"514,""513,Rachael,F,12"",,",,
+516,"515,""514,Sina,F,12"",,",,
+517,"516,""515,Willa,F,12"",,",,
+518,"517,""516,Aline,F,11"",,",,
+519,"518,""517,Beryl,F,11"",,",,
+520,"519,""518,Charles,F,11"",,",,
+521,"520,""519,Daisey,F,11"",,",,
+522,"521,""520,Dorcas,F,11"",,",,
+523,"522,""521,Edmonia,F,11"",,",,
+524,"523,""522,Effa,F,11"",,",,
+525,"524,""523,Eldora,F,11"",,",,
+526,"525,""524,Eloise,F,11"",,",,
+527,"526,""525,Emmer,F,11"",,",,
+528,"527,""526,Era,F,11"",,",,
+529,"528,""527,Gena,F,11"",,",,
+530,"529,""528,Henry,F,11"",,",,
+531,"530,""529,Iris,F,11"",,",,
+532,"531,""530,Izora,F,11"",,",,
+533,"532,""531,Lennie,F,11"",,",,
+534,"533,""532,Lissie,F,11"",,",,
+535,"534,""533,Mallie,F,11"",,",,
+536,"535,""534,Malvina,F,11"",,",,
+537,"536,""535,Mathilde,F,11"",,",,
+538,"537,""536,Mazie,F,11"",,",,
+539,"538,""537,Queenie,F,11"",,",,
+540,"539,""538,Robert,F,11"",,",,
+541,"540,""539,Rosina,F,11"",,",,
+542,"541,""540,Salome,F,11"",,",,
+543,"542,""541,Theodora,F,11"",,",,
+544,"543,""542,Therese,F,11"",,",,
+545,"544,""543,Vena,F,11"",,",,
+546,"545,""544,Wanda,F,11"",,",,
+547,"546,""545,Wilda,F,11"",,",,
+548,"547,""546,Altha,F,10"",,",,
+549,"548,""547,Anastasia,F,10"",,",,
+550,"549,""548,Besse,F,10"",,",,
+551,"550,""549,Bird,F,10"",,",,
+552,"551,""550,Birtie,F,10"",,",,
+553,"552,""551,Clarissa,F,10"",,",,
+554,"553,""552,Claude,F,10"",,",,
+555,"554,""553,Delilah,F,10"",,",,
+556,"555,""554,Diana,F,10"",,",,
+557,"556,""555,Emelie,F,10"",,",,
+558,"557,""556,Erna,F,10"",,",,
+559,"558,""557,Fern,F,10"",,",,
+560,"559,""558,Florida,F,10"",,",,
+561,"560,""559,Frona,F,10"",,",,
+562,"561,""560,Hilma,F,10"",,",,
+563,"562,""561,Joseph,F,10"",,",,
+564,"563,""562,Juliet,F,10"",,",,
+565,"564,""563,Leonie,F,10"",,",,
+566,"565,""564,Lugenia,F,10"",,",,
+567,"566,""565,Mammie,F,10"",,",,
+568,"567,""566,Manda,F,10"",,",,
+569,"568,""567,Manerva,F,10"",,",,
+570,"569,""568,Manie,F,10"",,",,
+571,"570,""569,Nella,F,10"",,",,
+572,"571,""570,Paulina,F,10"",,",,
+573,"572,""571,Philomena,F,10"",,",,
+574,"573,""572,Rae,F,10"",,",,
+575,"574,""573,Selina,F,10"",,",,
+576,"575,""574,Sena,F,10"",,",,
+577,"576,""575,Theodosia,F,10"",,",,
+578,"577,""576,Tommie,F,10"",,",,
+579,"578,""577,Una,F,10"",,",,
+580,"579,""578,Vernie,F,10"",,",,
+581,"580,""579,Adela,F,9"",,",,
+582,"581,""580,Althea,F,9"",,",,
+583,"582,""581,Amalia,F,9"",,",,
+584,"583,""582,Amber,F,9"",,",,
+585,"584,""583,Angelina,F,9"",,",,
+586,"585,""584,Annabelle,F,9"",,",,
+587,"586,""585,Anner,F,9"",,",,
+588,"587,""586,Arie,F,9"",,",,
+589,"588,""587,Clarice,F,9"",,",,
+590,"589,""588,Corda,F,9"",,",,
+591,"590,""589,Corrie,F,9"",,",,
+592,"591,""590,Dell,F,9"",,",,
+593,"592,""591,Dellar,F,9"",,",,
+594,"593,""592,Donie,F,9"",,",,
+595,"594,""593,Doris,F,9"",,",,
+596,"595,""594,Elda,F,9"",,",,
+597,"596,""595,Elinor,F,9"",,",,
+598,"597,""596,Emeline,F,9"",,",,
+599,"598,""597,Emilia,F,9"",,",,
+600,"599,""598,Esta,F,9"",,",,
+601,"600,""599,Estell,F,9"",,",,
+602,"601,""600,Etha,F,9"",,",,
+603,"602,""601,Fred,F,9"",,",,
+604,"603,""602,Hope,F,9"",,",,
+605,"604,""603,Indiana,F,9"",,",,
+606,"605,""604,Ione,F,9"",,",,
+607,"606,""605,Jettie,F,9"",,",,
+608,"607,""606,Johnnie,F,9"",,",,
+609,"608,""607,Josiephine,F,9"",,",,
+610,"609,""608,Kitty,F,9"",,",,
+611,"610,""609,Lavina,F,9"",,",,
+612,"611,""610,Leda,F,9"",,",,
+613,"612,""611,Letta,F,9"",,",,
+614,"613,""612,Mahala,F,9"",,",,
+615,"614,""613,Marcia,F,9"",,",,
+616,"615,""614,Margarette,F,9"",,",,
+617,"616,""615,Maudie,F,9"",,",,
+618,"617,""616,Maye,F,9"",,",,
+619,"618,""617,Norah,F,9"",,",,
+620,"619,""618,Oda,F,9"",,",,
+621,"620,""619,Patty,F,9"",,",,
+622,"621,""620,Paula,F,9"",,",,
+623,"622,""621,Permelia,F,9"",,",,
+624,"623,""622,Rosalia,F,9"",,",,
+625,"624,""623,Roxanna,F,9"",,",,
+626,"625,""624,Sula,F,9"",,",,
+627,"626,""625,Vada,F,9"",,",,
+628,"627,""626,Winnifred,F,9"",,",,
+629,"628,""627,Adline,F,8"",,",,
+630,"629,""628,Almira,F,8"",,",,
+631,"630,""629,Alvena,F,8"",,",,
+632,"631,""630,Arizona,F,8"",,",,
+633,"632,""631,Becky,F,8"",,",,
+634,"633,""632,Bennie,F,8"",,",,
+635,"634,""633,Bernadette,F,8"",,",,
+636,"635,""634,Camille,F,8"",,",,
+637,"636,""635,Cordia,F,8"",,",,
+638,"637,""636,Corine,F,8"",,",,
+639,"638,""637,Dicie,F,8"",,",,
+640,"639,""638,Dove,F,8"",,",,
+641,"640,""639,Drusilla,F,8"",,",,
+642,"641,""640,Elena,F,8"",,",,
+643,"642,""641,Elenora,F,8"",,",,
+644,"643,""642,Elmina,F,8"",,",,
+645,"644,""643,Ethyl,F,8"",,",,
+646,"645,""644,Evalyn,F,8"",,",,
+647,"646,""645,Evelina,F,8"",,",,
+648,"647,""646,Faye,F,8"",,",,
+649,"648,""647,Huldah,F,8"",,",,
+650,"649,""648,Idell,F,8"",,",,
+651,"650,""649,Inga,F,8"",,",,
+652,"651,""650,Irena,F,8"",,",,
+653,"652,""651,Jewell,F,8"",,",,
+654,"653,""652,Kattie,F,8"",,",,
+655,"654,""653,Lavenia,F,8"",,",,
+656,"655,""654,Leslie,F,8"",,",,
+657,"656,""655,Lovina,F,8"",,",,
+658,"657,""656,Lulie,F,8"",,",,
+659,"658,""657,Magnolia,F,8"",,",,
+660,"659,""658,Margeret,F,8"",,",,
+661,"660,""659,Margery,F,8"",,",,
+662,"661,""660,Media,F,8"",,",,
+663,"662,""661,Millicent,F,8"",,",,
+664,"663,""662,Nena,F,8"",,",,
+665,"664,""663,Ocie,F,8"",,",,
+666,"665,""664,Orilla,F,8"",,",,
+667,"666,""665,Osie,F,8"",,",,
+668,"667,""666,Pansy,F,8"",,",,
+669,"668,""667,Ray,F,8"",,",,
+670,"669,""668,Rosia,F,8"",,",,
+671,"670,""669,Rowena,F,8"",,",,
+672,"671,""670,Shirley,F,8"",,",,
+673,"672,""671,Tabitha,F,8"",,",,
+674,"673,""672,Thomas,F,8"",,",,
+675,"674,""673,Verdie,F,8"",,",,
+676,"675,""674,Walter,F,8"",,",,
+677,"676,""675,Zetta,F,8"",,",,
+678,"677,""676,Zoa,F,8"",,",,
+679,"678,""677,Zona,F,8"",,",,
+680,"679,""678,Albertina,F,7"",,",,
+681,"680,""679,Albina,F,7"",,",,
+682,"681,""680,Alyce,F,7"",,",,
+683,"682,""681,Amie,F,7"",,",,
+684,"683,""682,Angela,F,7"",,",,
+685,"684,""683,Annis,F,7"",,",,
+686,"685,""684,Carol,F,7"",,",,
+687,"686,""685,Carra,F,7"",,",,
+688,"687,""686,Clarence,F,7"",,",,
+689,"688,""687,Clarinda,F,7"",,",,
+690,"689,""688,Delphia,F,7"",,",,
+691,"690,""689,Dillie,F,7"",,",,
+692,"691,""690,Doshie,F,7"",,",,
+693,"692,""691,Drucilla,F,7"",,",,
+694,"693,""692,Etna,F,7"",,",,
+695,"694,""693,Eugenie,F,7"",,",,
+696,"695,""694,Eulalia,F,7"",,",,
+697,"696,""695,Eve,F,7"",,",,
+698,"697,""696,Felicia,F,7"",,",,
+699,"698,""697,Florance,F,7"",,",,
+700,"699,""698,Fronie,F,7"",,",,
+701,"700,""699,Geraldine,F,7"",,",,
+702,"701,""700,Gina,F,7"",,",,
+703,"702,""701,Glenna,F,7"",,",,
+704,"703,""702,Grayce,F,7"",,",,
+705,"704,""703,Hedwig,F,7"",,",,
+706,"705,""704,Jessica,F,7"",,",,
+707,"706,""705,Jossie,F,7"",,",,
+708,"707,""706,Katheryn,F,7"",,",,
+709,"708,""707,Katy,F,7"",,",,
+710,"709,""708,Lea,F,7"",,",,
+711,"710,""709,Leanna,F,7"",,",,
+712,"711,""710,Leitha,F,7"",,",,
+713,"712,""711,Leone,F,7"",,",,
+714,"713,""712,Lidie,F,7"",,",,
+715,"714,""713,Loma,F,7"",,",,
+716,"715,""714,Lular,F,7"",,",,
+717,"716,""715,Magdalen,F,7"",,",,
+718,"717,""716,Maymie,F,7"",,",,
+719,"718,""717,Minervia,F,7"",,",,
+720,"719,""718,Muriel,F,7"",,",,
+721,"720,""719,Neppie,F,7"",,",,
+722,"721,""720,Olie,F,7"",,",,
+723,"722,""721,Onie,F,7"",,",,
+724,"723,""722,Osa,F,7"",,",,
+725,"724,""723,Otelia,F,7"",,",,
+726,"725,""724,Paralee,F,7"",,",,
+727,"726,""725,Patience,F,7"",,",,
+728,"727,""726,Rella,F,7"",,",,
+729,"728,""727,Rillie,F,7"",,",,
+730,"729,""728,Rosanna,F,7"",,",,
+731,"730,""729,Theo,F,7"",,",,
+732,"731,""730,Tilda,F,7"",,",,
+733,"732,""731,Tishie,F,7"",,",,
+734,"733,""732,Tressa,F,7"",,",,
+735,"734,""733,Viva,F,7"",,",,
+736,"735,""734,Yetta,F,7"",,",,
+737,"736,""735,Zena,F,7"",,",,
+738,"737,""736,Zola,F,7"",,",,
+739,"738,""737,Abby,F,6"",,",,
+740,"739,""738,Aileen,F,6"",,",,
+741,"740,""739,Alba,F,6"",,",,
+742,"741,""740,Alda,F,6"",,",,
+743,"742,""741,Alla,F,6"",,",,
+744,"743,""742,Alverta,F,6"",,",,
+745,"744,""743,Ara,F,6"",,",,
+746,"745,""744,Ardelia,F,6"",,",,
+747,"746,""745,Ardella,F,6"",,",,
+748,"747,""746,Arrie,F,6"",,",,
+749,"748,""747,Arvilla,F,6"",,",,
+750,"749,""748,Augustine,F,6"",,",,
+751,"750,""749,Aurora,F,6"",,",,
+752,"751,""750,Bama,F,6"",,",,
+753,"752,""751,Bena,F,6"",,",,
+754,"753,""752,Byrd,F,6"",,",,
+755,"754,""753,Calla,F,6"",,",,
+756,"755,""754,Camilla,F,6"",,",,
+757,"756,""755,Carey,F,6"",,",,
+758,"757,""756,Carlotta,F,6"",,",,
+759,"758,""757,Celestia,F,6"",,",,
+760,"759,""758,Cherry,F,6"",,",,
+761,"760,""759,Cinda,F,6"",,",,
+762,"761,""760,Classie,F,6"",,",,
+763,"762,""761,Claudine,F,6"",,",,
+764,"763,""762,Clemie,F,6"",,",,
+765,"764,""763,Clifford,F,6"",,",,
+766,"765,""764,Clyda,F,6"",,",,
+767,"766,""765,Creola,F,6"",,",,
+768,"767,""766,Debbie,F,6"",,",,
+769,"768,""767,Dee,F,6"",,",,
+770,"769,""768,Dinah,F,6"",,",,
+771,"770,""769,Doshia,F,6"",,",,
+772,"771,""770,Ednah,F,6"",,",,
+773,"772,""771,Edyth,F,6"",,",,
+774,"773,""772,Eleanora,F,6"",,",,
+775,"774,""773,Electa,F,6"",,",,
+776,"775,""774,Eola,F,6"",,",,
+777,"776,""775,Erie,F,6"",,",,
+778,"777,""776,Eudora,F,6"",,",,
+779,"778,""777,Euphemia,F,6"",,",,
+780,"779,""778,Evalena,F,6"",,",,
+781,"780,""779,Evaline,F,6"",,",,
+782,"781,""780,Faith,F,6"",,",,
+783,"782,""781,Fidelia,F,6"",,",,
+784,"783,""782,Freddie,F,6"",,",,
+785,"784,""783,Golda,F,6"",,",,
+786,"785,""784,Harry,F,6"",,",,
+787,"786,""785,Helma,F,6"",,",,
+788,"787,""786,Hermine,F,6"",,",,
+789,"788,""787,Hessie,F,6"",,",,
+790,"789,""788,Ivah,F,6"",,",,
+791,"790,""789,Janette,F,6"",,",,
+792,"791,""790,Jennette,F,6"",,",,
+793,"792,""791,Joella,F,6"",,",,
+794,"793,""792,Kathryne,F,6"",,",,
+795,"794,""793,Lacy,F,6"",,",,
+796,"795,""794,Lanie,F,6"",,",,
+797,"796,""795,Lauretta,F,6"",,",,
+798,"797,""796,Leana,F,6"",,",,
+799,"798,""797,Leatha,F,6"",,",,
+800,"799,""798,Leo,F,6"",,",,
+801,"800,""799,Liller,F,6"",,",,
+802,"801,""800,Lillis,F,6"",,",,
+803,"802,""801,Louetta,F,6"",,",,
+804,"803,""802,Madie,F,6"",,",,
+805,"804,""803,Mai,F,6"",,",,
+806,"805,""804,Martina,F,6"",,",,
+807,"806,""805,Maryann,F,6"",,",,
+808,"807,""806,Melva,F,6"",,",,
+809,"808,""807,Mena,F,6"",,",,
+810,"809,""808,Mercedes,F,6"",,",,
+811,"810,""809,Merle,F,6"",,",,
+812,"811,""810,Mima,F,6"",,",,
+813,"812,""811,Minda,F,6"",,",,
+814,"813,""812,Monica,F,6"",,",,
+815,"814,""813,Nealie,F,6"",,",,
+816,"815,""814,Netta,F,6"",,",,
+817,"816,""815,Nolia,F,6"",,",,
+818,"817,""816,Nonie,F,6"",,",,
+819,"818,""817,Odelia,F,6"",,",,
+820,"819,""818,Ottilie,F,6"",,",,
+821,"820,""819,Phyllis,F,6"",,",,
+822,"821,""820,Robbie,F,6"",,",,
+823,"822,""821,Sabina,F,6"",,",,
+824,"823,""822,Sada,F,6"",,",,
+825,"824,""823,Sammie,F,6"",,",,
+826,"825,""824,Suzanne,F,6"",,",,
+827,"826,""825,Sybilla,F,6"",,",,
+828,"827,""826,Thea,F,6"",,",,
+829,"828,""827,Tressie,F,6"",,",,
+830,"829,""828,Vallie,F,6"",,",,
+831,"830,""829,Venie,F,6"",,",,
+832,"831,""830,Viney,F,6"",,",,
+833,"832,""831,Wilhelmine,F,6"",,",,
+834,"833,""832,Winona,F,6"",,",,
+835,"834,""833,Zelda,F,6"",,",,
+836,"835,""834,Zilpha,F,6"",,",,
+837,"836,""835,Adelle,F,5"",,",,
+838,"837,""836,Adina,F,5"",,",,
+839,"838,""837,Adrienne,F,5"",,",,
+840,"839,""838,Albertine,F,5"",,",,
+841,"840,""839,Alys,F,5"",,",,
+842,"841,""840,Ana,F,5"",,",,
+843,"842,""841,Araminta,F,5"",,",,
+844,"843,""842,Arthur,F,5"",,",,
+845,"844,""843,Birtha,F,5"",,",,
+846,"845,""844,Bulah,F,5"",,",,
+847,"846,""845,Caddie,F,5"",,",,
+848,"847,""846,Celie,F,5"",,",,
+849,"848,""847,Charlotta,F,5"",,",,
+850,"849,""848,Clair,F,5"",,",,
+851,"850,""849,Concepcion,F,5"",,",,
+852,"851,""850,Cordella,F,5"",,",,
+853,"852,""851,Corrine,F,5"",,",,
+854,"853,""852,Delila,F,5"",,",,
+855,"854,""853,Delphine,F,5"",,",,
+856,"855,""854,Dosha,F,5"",,",,
+857,"856,""855,Edgar,F,5"",,",,
+858,"857,""856,Elaine,F,5"",,",,
+859,"858,""857,Elisa,F,5"",,",,
+860,"859,""858,Ellar,F,5"",,",,
+861,"860,""859,Elmire,F,5"",,",,
+862,"861,""860,Elvina,F,5"",,",,
+863,"862,""861,Ena,F,5"",,",,
+864,"863,""862,Estie,F,5"",,",,
+865,"864,""863,Etter,F,5"",,",,
+866,"865,""864,Fronnie,F,5"",,",,
+867,"866,""865,Genie,F,5"",,",,
+868,"867,""866,Georgina,F,5"",,",,
+869,"868,""867,Glenn,F,5"",,",,
+870,"869,""868,Gracia,F,5"",,",,
+871,"870,""869,Guadalupe,F,5"",,",,
+872,"871,""870,Gwendolyn,F,5"",,",,
+873,"872,""871,Hassie,F,5"",,",,
+874,"873,""872,Honora,F,5"",,",,
+875,"874,""873,Icy,F,5"",,",,
+876,"875,""874,Isa,F,5"",,",,
+877,"876,""875,Isadora,F,5"",,",,
+878,"877,""876,Jesse,F,5"",,",,
+879,"878,""877,Jewel,F,5"",,",,
+880,"879,""878,Joe,F,5"",,",,
+881,"880,""879,Johannah,F,5"",,",,
+882,"881,""880,Juana,F,5"",,",,
+883,"882,""881,Judith,F,5"",,",,
+884,"883,""882,Judy,F,5"",,",,
+885,"884,""883,Junie,F,5"",,",,
+886,"885,""884,Lavonia,F,5"",,",,
+887,"886,""885,Lella,F,5"",,",,
+888,"887,""886,Lemma,F,5"",,",,
+889,"888,""887,Letty,F,5"",,",,
+890,"889,""888,Linna,F,5"",,",,
+891,"890,""889,Littie,F,5"",,",,
+892,"891,""890,Lollie,F,5"",,",,
+893,"892,""891,Lorene,F,5"",,",,
+894,"893,""892,Louis,F,5"",,",,
+895,"894,""893,Love,F,5"",,",,
+896,"895,""894,Lovisa,F,5"",,",,
+897,"896,""895,Lucina,F,5"",,",,
+898,"897,""896,Lynn,F,5"",,",,
+899,"898,""897,Madora,F,5"",,",,
+900,"899,""898,Mahalia,F,5"",,",,
+901,"900,""899,Manervia,F,5"",,",,
+902,"901,""900,Manuela,F,5"",,",,
+903,"902,""901,Margarett,F,5"",,",,
+904,"903,""902,Margaretta,F,5"",,",,
+905,"904,""903,Margarita,F,5"",,",,
+906,"905,""904,Marilla,F,5"",,",,
+907,"906,""905,Mignon,F,5"",,",,
+908,"907,""906,Mozella,F,5"",,",,
+909,"908,""907,Natalie,F,5"",,",,
+910,"909,""908,Nelia,F,5"",,",,
+911,"910,""909,Nolie,F,5"",,",,
+912,"911,""910,Omie,F,5"",,",,
+913,"912,""911,Opal,F,5"",,",,
+914,"913,""912,Ossie,F,5"",,",,
+915,"914,""913,Ottie,F,5"",,",,
+916,"915,""914,Ottilia,F,5"",,",,
+917,"916,""915,Parthenia,F,5"",,",,
+918,"917,""916,Penelope,F,5"",,",,
+919,"918,""917,Pinkey,F,5"",,",,
+920,"919,""918,Pollie,F,5"",,",,
+921,"920,""919,Rennie,F,5"",,",,
+922,"921,""920,Reta,F,5"",,",,
+923,"922,""921,Roena,F,5"",,",,
+924,"923,""922,Rosalee,F,5"",,",,
+925,"924,""923,Roseanna,F,5"",,",,
+926,"925,""924,Ruthie,F,5"",,",,
+927,"926,""925,Sabra,F,5"",,",,
+928,"927,""926,Sannie,F,5"",,",,
+929,"928,""927,Selena,F,5"",,",,
+930,"929,""928,Sibyl,F,5"",,",,
+931,"930,""929,Tella,F,5"",,",,
+932,"931,""930,Tempie,F,5"",,",,
+933,"932,""931,Tennessee,F,5"",,",,
+934,"933,""932,Teressa,F,5"",,",,
+935,"934,""933,Texas,F,5"",,",,
+936,"935,""934,Theda,F,5"",,",,
+937,"936,""935,Thelma,F,5"",,",,
+938,"937,""936,Thursa,F,5"",,",,
+939,"938,""937,Ula,F,5"",,",,
+940,"939,""938,Vannie,F,5"",,",,
+941,"940,""939,Verona,F,5"",,",,
+942,"941,""940,Vertie,F,5"",,",,
+943,"942,""941,Wilma,F,5"",,",,
+944,"943,""942,John,M,9655"",,",,
+945,"944,""943,William,M,9533"",,",,
+946,"945,""944,James,M,5927"",,",,
+947,"946,""945,Charles,M,5348"",,",,
+948,"947,""946,George,M,5126"",,",,
+949,"948,""947,Frank,M,3242"",,",,
+950,"949,""948,Joseph,M,2632"",,",,
+951,"950,""949,Thomas,M,2534"",,",,
+952,"951,""950,Henry,M,2444"",,",,
+953,"952,""951,Robert,M,2416"",,",,
+954,"953,""952,Edward,M,2364"",,",,
+955,"954,""953,Harry,M,2152"",,",,
+956,"955,""954,Walter,M,1755"",,",,
+957,"956,""955,Arthur,M,1599"",,",,
+958,"957,""956,Fred,M,1569"",,",,
+959,"958,""957,Albert,M,1493"",,",,
+960,"959,""958,Samuel,M,1024"",,",,
+961,"960,""959,David,M,869"",,",,
+962,"961,""960,Louis,M,828"",,",,
+963,"962,""961,Joe,M,731"",,",,
+964,"963,""962,Charlie,M,730"",,",,
+965,"964,""963,Clarence,M,730"",,",,
+966,"965,""964,Richard,M,728"",,",,
+967,"966,""965,Andrew,M,644"",,",,
+968,"967,""966,Daniel,M,643"",,",,
+969,"968,""967,Ernest,M,615"",,",,
+970,"969,""968,Will,M,588"",,",,
+971,"970,""969,Jesse,M,569"",,",,
+972,"971,""970,Oscar,M,544"",,",,
+973,"972,""971,Lewis,M,517"",,",,
+974,"973,""972,Peter,M,496"",,",,
+975,"974,""973,Benjamin,M,490"",,",,
+976,"975,""974,Frederick,M,483"",,",,
+977,"976,""975,Willie,M,476"",,",,
+978,"977,""976,Alfred,M,469"",,",,
+979,"978,""977,Sam,M,457"",,",,
+980,"979,""978,Roy,M,440"",,",,
+981,"980,""979,Herbert,M,424"",,",,
+982,"981,""980,Jacob,M,404"",,",,
+983,"982,""981,Tom,M,399"",,",,
+984,"983,""982,Elmer,M,373"",,",,
+985,"984,""983,Carl,M,372"",,",,
+986,"985,""984,Lee,M,361"",,",,
+987,"986,""985,Howard,M,357"",,",,
+988,"987,""986,Martin,M,357"",,",,
+989,"988,""987,Michael,M,354"",,",,
+990,"989,""988,Bert,M,348"",,",,
+991,"990,""989,Herman,M,347"",,",,
+992,"991,""990,Jim,M,345"",,",,
+993,"992,""991,Francis,M,344"",,",,
+994,"993,""992,Harvey,M,344"",,",,
+995,"994,""993,Earl,M,335"",,",,
+996,"995,""994,Eugene,M,328"",,",,
+997,"996,""995,Ralph,M,317"",,",,
+998,"997,""996,Ed,M,310"",,",,
+999,"998,""997,Claude,M,309"",,",,
+1000,"999,""998,Edwin,M,309"",,",,
+1001,"1000,""999,Ben,M,305"",,",,
+1002,"1001,""1000,Charley,M,305"",,",,
+1003,"1002,""1001,Paul,M,301"",,",,
+1004,"1003,""1002,Edgar,M,283"",,",,
+1005,"1004,""1003,Isaac,M,274"",,",,
+1006,"1005,""1004,Otto,M,271"",,",,
+1007,"1006,""1005,Luther,M,260"",,",,
+1008,"1007,""1006,Lawrence,M,257"",,",,
+1009,"1008,""1007,Ira,M,249"",,",,
+1010,"1009,""1008,Patrick,M,248"",,",,
+1011,"1010,""1009,Guy,M,239"",,",,
+1012,"1011,""1010,Oliver,M,234"",,",,
+1013,"1012,""1011,Theodore,M,232"",,",,
+1014,"1013,""1012,Hugh,M,224"",,",,
+1015,"1014,""1013,Clyde,M,221"",,",,
+1016,"1015,""1014,Alexander,M,211"",,",,
+1017,"1016,""1015,August,M,210"",,",,
+1018,"1017,""1016,Floyd,M,206"",,",,
+1019,"1018,""1017,Homer,M,205"",,",,
+1020,"1019,""1018,Jack,M,204"",,",,
+1021,"1020,""1019,Leonard,M,200"",,",,
+1022,"1021,""1020,Horace,M,199"",,",,
+1023,"1022,""1021,Marion,M,189"",,",,
+1024,"1023,""1022,Philip,M,186"",,",,
+1025,"1024,""1023,Allen,M,184"",,",,
+1026,"1025,""1024,Archie,M,183"",,",,
+1027,"1026,""1025,Stephen,M,176"",,",,
+1028,"1027,""1026,Chester,M,168"",,",,
+1029,"1028,""1027,Willis,M,166"",,",,
+1030,"1029,""1028,Raymond,M,165"",,",,
+1031,"1030,""1029,Rufus,M,163"",,",,
+1032,"1031,""1030,Warren,M,158"",,",,
+1033,"1032,""1031,Jessie,M,154"",,",,
+1034,"1033,""1032,Milton,M,149"",,",,
+1035,"1034,""1033,Alex,M,147"",,",,
+1036,"1035,""1034,Leo,M,147"",,",,
+1037,"1036,""1035,Julius,M,143"",,",,
+1038,"1037,""1036,Ray,M,142"",,",,
+1039,"1038,""1037,Sidney,M,142"",,",,
+1040,"1039,""1038,Bernard,M,140"",,",,
+1041,"1040,""1039,Dan,M,140"",,",,
+1042,"1041,""1040,Jerry,M,136"",,",,
+1043,"1042,""1041,Calvin,M,134"",,",,
+1044,"1043,""1042,Perry,M,134"",,",,
+1045,"1044,""1043,Dave,M,131"",,",,
+1046,"1045,""1044,Anthony,M,130"",,",,
+1047,"1046,""1045,Eddie,M,129"",,",,
+1048,"1047,""1046,Amos,M,128"",,",,
+1049,"1048,""1047,Dennis,M,128"",,",,
+1050,"1049,""1048,Clifford,M,127"",,",,
+1051,"1050,""1049,Leroy,M,124"",,",,
+1052,"1051,""1050,Wesley,M,123"",,",,
+1053,"1052,""1051,Alonzo,M,122"",,",,
+1054,"1053,""1052,Garfield,M,122"",,",,
+1055,"1054,""1053,Franklin,M,120"",,",,
+1056,"1055,""1054,Emil,M,119"",,",,
+1057,"1056,""1055,Leon,M,118"",,",,
+1058,"1057,""1056,Nathan,M,114"",,",,
+1059,"1058,""1057,Harold,M,113"",,",,
+1060,"1059,""1058,Matthew,M,113"",,",,
+1061,"1060,""1059,Levi,M,112"",,",,
+1062,"1061,""1060,Moses,M,111"",,",,
+1063,"1062,""1061,Everett,M,110"",,",,
+1064,"1063,""1062,Lester,M,109"",,",,
+1065,"1064,""1063,Winfield,M,108"",,",,
+1066,"1065,""1064,Adam,M,104"",,",,
+1067,"1066,""1065,Lloyd,M,104"",,",,
+1068,"1067,""1066,Mack,M,104"",,",,
+1069,"1068,""1067,Fredrick,M,103"",,",,
+1070,"1069,""1068,Jay,M,103"",,",,
+1071,"1070,""1069,Jess,M,103"",,",,
+1072,"1071,""1070,Melvin,M,103"",,",,
+1073,"1072,""1071,Noah,M,103"",,",,
+1074,"1073,""1072,Aaron,M,102"",,",,
+1075,"1074,""1073,Alvin,M,102"",,",,
+1076,"1075,""1074,Norman,M,102"",,",,
+1077,"1076,""1075,Gilbert,M,101"",,",,
+1078,"1077,""1076,Elijah,M,100"",,",,
+1079,"1078,""1077,Victor,M,100"",,",,
+1080,"1079,""1078,Gus,M,99"",,",,
+1081,"1080,""1079,Nelson,M,99"",,",,
+1082,"1081,""1080,Jasper,M,98"",,",,
+1083,"1082,""1081,Silas,M,98"",,",,
+1084,"1083,""1082,Jake,M,96"",,",,
+1085,"1084,""1083,Christopher,M,95"",,",,
+1086,"1085,""1084,Mike,M,95"",,",,
+1087,"1086,""1085,Percy,M,94"",,",,
+1088,"1087,""1086,Adolph,M,93"",,",,
+1089,"1088,""1087,Maurice,M,93"",,",,
+1090,"1089,""1088,Cornelius,M,92"",,",,
+1091,"1090,""1089,Felix,M,92"",,",,
+1092,"1091,""1090,Reuben,M,92"",,",,
+1093,"1092,""1091,Wallace,M,91"",,",,
+1094,"1093,""1092,Claud,M,90"",,",,
+1095,"1094,""1093,Roscoe,M,90"",,",,
+1096,"1095,""1094,Sylvester,M,89"",,",,
+1097,"1096,""1095,Earnest,M,88"",,",,
+1098,"1097,""1096,Hiram,M,88"",,",,
+1099,"1098,""1097,Otis,M,88"",,",,
+1100,"1099,""1098,Simon,M,88"",,",,
+1101,"1100,""1099,Willard,M,88"",,",,
+1102,"1101,""1100,Irvin,M,86"",,",,
+1103,"1102,""1101,Mark,M,85"",,",,
+1104,"1103,""1102,Jose,M,84"",,",,
+1105,"1104,""1103,Wilbur,M,82"",,",,
+1106,"1105,""1104,Abraham,M,81"",,",,
+1107,"1106,""1105,Virgil,M,81"",,",,
+1108,"1107,""1106,Clinton,M,79"",,",,
+1109,"1108,""1107,Elbert,M,79"",,",,
+1110,"1109,""1108,Leslie,M,79"",,",,
+1111,"1110,""1109,Marshall,M,78"",,",,
+1112,"1111,""1110,Owen,M,78"",,",,
+1113,"1112,""1111,Wiley,M,78"",,",,
+1114,"1113,""1112,Anton,M,77"",,",,
+1115,"1114,""1113,Morris,M,77"",,",,
+1116,"1115,""1114,Manuel,M,75"",,",,
+1117,"1116,""1115,Phillip,M,75"",,",,
+1118,"1117,""1116,Augustus,M,74"",,",,
+1119,"1118,""1117,Emmett,M,74"",,",,
+1120,"1119,""1118,Eli,M,73"",,",,
+1121,"1120,""1119,Nicholas,M,73"",,",,
+1122,"1121,""1120,Wilson,M,72"",,",,
+1123,"1122,""1121,Alva,M,70"",,",,
+1124,"1123,""1122,Harley,M,70"",,",,
+1125,"1124,""1123,Newton,M,70"",,",,
+1126,"1125,""1124,Timothy,M,70"",,",,
+1127,"1126,""1125,Marvin,M,69"",,",,
+1128,"1127,""1126,Ross,M,69"",,",,
+1129,"1128,""1127,Curtis,M,68"",,",,
+1130,"1129,""1128,Edmund,M,67"",,",,
+1131,"1130,""1129,Jeff,M,66"",,",,
+1132,"1131,""1130,Elias,M,65"",,",,
+1133,"1132,""1131,Harrison,M,65"",,",,
+1134,"1133,""1132,Stanley,M,65"",,",,
+1135,"1134,""1133,Columbus,M,64"",,",,
+1136,"1135,""1134,Lon,M,64"",,",,
+1137,"1136,""1135,Ora,M,64"",,",,
+1138,"1137,""1136,Ollie,M,63"",,",,
+1139,"1138,""1137,Pearl,M,62"",,",,
+1140,"1139,""1138,Russell,M,62"",,",,
+1141,"1140,""1139,Solomon,M,62"",,",,
+1142,"1141,""1140,Arch,M,61"",,",,
+1143,"1142,""1141,Asa,M,60"",,",,
+1144,"1143,""1142,Clayton,M,60"",,",,
+1145,"1144,""1143,Enoch,M,60"",,",,
+1146,"1145,""1144,Irving,M,60"",,",,
+1147,"1146,""1145,Mathew,M,60"",,",,
+1148,"1147,""1146,Nathaniel,M,60"",,",,
+1149,"1148,""1147,Scott,M,60"",,",,
+1150,"1149,""1148,Hubert,M,59"",,",,
+1151,"1150,""1149,Lemuel,M,59"",,",,
+1152,"1151,""1150,Andy,M,58"",,",,
+1153,"1152,""1151,Ellis,M,58"",,",,
+1154,"1153,""1152,Emanuel,M,57"",,",,
+1155,"1154,""1153,Joshua,M,57"",,",,
+1156,"1155,""1154,Millard,M,56"",,",,
+1157,"1156,""1155,Vernon,M,56"",,",,
+1158,"1157,""1156,Wade,M,56"",,",,
+1159,"1158,""1157,Cyrus,M,54"",,",,
+1160,"1159,""1158,Miles,M,54"",,",,
+1161,"1160,""1159,Rudolph,M,54"",,",,
+1162,"1161,""1160,Sherman,M,54"",,",,
+1163,"1162,""1161,Austin,M,53"",,",,
+1164,"1163,""1162,Bill,M,53"",,",,
+1165,"1164,""1163,Chas,M,53"",,",,
+1166,"1165,""1164,Lonnie,M,53"",,",,
+1167,"1166,""1165,Monroe,M,53"",,",,
+1168,"1167,""1166,Byron,M,52"",,",,
+1169,"1168,""1167,Edd,M,52"",,",,
+1170,"1169,""1168,Emery,M,52"",,",,
+1171,"1170,""1169,Grant,M,52"",,",,
+1172,"1171,""1170,Jerome,M,52"",,",,
+1173,"1172,""1171,Max,M,52"",,",,
+1174,"1173,""1172,Mose,M,52"",,",,
+1175,"1174,""1173,Steve,M,52"",,",,
+1176,"1175,""1174,Gordon,M,51"",,",,
+1177,"1176,""1175,Abe,M,50"",,",,
+1178,"1177,""1176,Pete,M,50"",,",,
+1179,"1178,""1177,Chris,M,49"",,",,
+1180,"1179,""1178,Clark,M,49"",,",,
+1181,"1180,""1179,Gustave,M,49"",,",,
+1182,"1181,""1180,Orville,M,49"",,",,
+1183,"1182,""1181,Lorenzo,M,48"",,",,
+1184,"1183,""1182,Bruce,M,47"",,",,
+1185,"1184,""1183,Marcus,M,47"",,",,
+1186,"1185,""1184,Preston,M,47"",,",,
+1187,"1186,""1185,Bob,M,46"",,",,
+1188,"1187,""1186,Dock,M,46"",,",,
+1189,"1188,""1187,Donald,M,46"",,",,
+1190,"1189,""1188,Jackson,M,46"",,",,
+1191,"1190,""1189,Cecil,M,45"",,",,
+1192,"1191,""1190,Barney,M,44"",,",,
+1193,"1192,""1191,Delbert,M,44"",,",,
+1194,"1193,""1192,Edmond,M,44"",,",,
+1195,"1194,""1193,Anderson,M,43"",,",,
+1196,"1195,""1194,Christian,M,43"",,",,
+1197,"1196,""1195,Glenn,M,43"",,",,
+1198,"1197,""1196,Jefferson,M,43"",,",,
+1199,"1198,""1197,Luke,M,43"",,",,
+1200,"1199,""1198,Neal,M,43"",,",,
+1201,"1200,""1199,Burt,M,42"",,",,
+1202,"1201,""1200,Ike,M,42"",,",,
+1203,"1202,""1201,Myron,M,42"",,",,
+1204,"1203,""1202,Tony,M,42"",,",,
+1205,"1204,""1203,Conrad,M,41"",,",,
+1206,"1205,""1204,Joel,M,41"",,",,
+1207,"1206,""1205,Matt,M,41"",,",,
+1208,"1207,""1206,Riley,M,41"",,",,
+1209,"1208,""1207,Vincent,M,41"",,",,
+1210,"1209,""1208,Emory,M,40"",,",,
+1211,"1210,""1209,Isaiah,M,40"",,",,
+1212,"1211,""1210,Nick,M,40"",,",,
+1213,"1212,""1211,Ezra,M,39"",,",,
+1214,"1213,""1212,Green,M,39"",,",,
+1215,"1214,""1213,Juan,M,39"",,",,
+1216,"1215,""1214,Clifton,M,38"",,",,
+1217,"1216,""1215,Lucius,M,38"",,",,
+1218,"1217,""1216,Porter,M,38"",,",,
+1219,"1218,""1217,Arnold,M,37"",,",,
+1220,"1219,""1218,Bud,M,37"",,",,
+1221,"1220,""1219,Jeremiah,M,37"",,",,
+1222,"1221,""1220,Taylor,M,37"",,",,
+1223,"1222,""1221,Forrest,M,36"",,",,
+1224,"1223,""1222,Roland,M,36"",,",,
+1225,"1224,""1223,Spencer,M,35"",,",,
+1226,"1225,""1224,Burton,M,34"",,",,
+1227,"1226,""1225,Don,M,34"",,",,
+1228,"1227,""1226,Emmet,M,34"",,",,
+1229,"1228,""1227,Gustav,M,33"",,",,
+1230,"1229,""1228,Louie,M,33"",,",,
+1231,"1230,""1229,Morgan,M,33"",,",,
+1232,"1231,""1230,Ned,M,33"",,",,
+1233,"1232,""1231,Van,M,33"",,",,
+1234,"1233,""1232,Ambrose,M,32"",,",,
+1235,"1234,""1233,Chauncey,M,32"",,",,
+1236,"1235,""1234,Elisha,M,32"",,",,
+1237,"1236,""1235,Ferdinand,M,32"",,",,
+1238,"1237,""1236,General,M,32"",,",,
+1239,"1238,""1237,Julian,M,32"",,",,
+1240,"1239,""1238,Kenneth,M,32"",,",,
+1241,"1240,""1239,Mitchell,M,32"",,",,
+1242,"1241,""1240,Allie,M,31"",,",,
+1243,"1242,""1241,Josh,M,31"",,",,
+1244,"1243,""1242,Judson,M,31"",,",,
+1245,"1244,""1243,Lyman,M,31"",,",,
+1246,"1245,""1244,Napoleon,M,31"",,",,
+1247,"1246,""1245,Pedro,M,31"",,",,
+1248,"1247,""1246,Berry,M,30"",,",,
+1249,"1248,""1247,Dewitt,M,30"",,",,
+1250,"1249,""1248,Ervin,M,30"",,",,
+1251,"1250,""1249,Forest,M,30"",,",,
+1252,"1251,""1250,Lynn,M,30"",,",,
+1253,"1252,""1251,Pink,M,30"",,",,
+1254,"1253,""1252,Ruben,M,30"",,",,
+1255,"1254,""1253,Sanford,M,30"",,",,
+1256,"1255,""1254,Ward,M,30"",,",,
+1257,"1256,""1255,Douglas,M,29"",,",,
+1258,"1257,""1256,Ole,M,29"",,",,
+1259,"1258,""1257,Omer,M,29"",,",,
+1260,"1259,""1258,Ulysses,M,29"",,",,
+1261,"1260,""1259,Walker,M,29"",,",,
+1262,"1261,""1260,Wilbert,M,29"",,",,
+1263,"1262,""1261,Adelbert,M,28"",,",,
+1264,"1263,""1262,Benjiman,M,28"",,",,
+1265,"1264,""1263,Ivan,M,28"",,",,
+1266,"1265,""1264,Jonas,M,28"",,",,
+1267,"1266,""1265,Major,M,28"",,",,
+1268,"1267,""1266,Abner,M,27"",,",,
+1269,"1268,""1267,Archibald,M,27"",,",,
+1270,"1269,""1268,Caleb,M,27"",,",,
+1271,"1270,""1269,Clint,M,27"",,",,
+1272,"1271,""1270,Dudley,M,27"",,",,
+1273,"1272,""1271,Granville,M,27"",,",,
+1274,"1273,""1272,King,M,27"",,",,
+1275,"1274,""1273,Mary,M,27"",,",,
+1276,"1275,""1274,Merton,M,27"",,",,
+1277,"1276,""1275,Antonio,M,26"",,",,
+1278,"1277,""1276,Bennie,M,26"",,",,
+1279,"1278,""1277,Carroll,M,26"",,",,
+1280,"1279,""1278,Freeman,M,26"",,",,
+1281,"1280,""1279,Josiah,M,26"",,",,
+1282,"1281,""1280,Milo,M,26"",,",,
+1283,"1282,""1281,Royal,M,26"",,",,
+1284,"1283,""1282,Dick,M,25"",,",,
+1285,"1284,""1283,Earle,M,25"",,",,
+1286,"1285,""1284,Elza,M,25"",,",,
+1287,"1286,""1285,Emerson,M,25"",,",,
+1288,"1287,""1286,Fletcher,M,25"",,",,
+1289,"1288,""1287,Judge,M,25"",,",,
+1290,"1289,""1288,Laurence,M,25"",,",,
+1291,"1290,""1289,Neil,M,25"",,",,
+1292,"1291,""1290,Roger,M,25"",,",,
+1293,"1292,""1291,Seth,M,25"",,",,
+1294,"1293,""1292,Glen,M,24"",,",,
+1295,"1294,""1293,Hugo,M,24"",,",,
+1296,"1295,""1294,Jimmie,M,24"",,",,
+1297,"1296,""1295,Johnnie,M,24"",,",,
+1298,"1297,""1296,Washington,M,24"",,",,
+1299,"1298,""1297,Elwood,M,23"",,",,
+1300,"1299,""1298,Gust,M,23"",,",,
+1301,"1300,""1299,Harmon,M,23"",,",,
+1302,"1301,""1300,Jordan,M,23"",,",,
+1303,"1302,""1301,Simeon,M,23"",,",,
+1304,"1303,""1302,Wayne,M,23"",,",,
+1305,"1304,""1303,Wilber,M,23"",,",,
+1306,"1305,""1304,Clem,M,22"",,",,
+1307,"1306,""1305,Evan,M,22"",,",,
+1308,"1307,""1306,Frederic,M,22"",,",,
+1309,"1308,""1307,Irwin,M,22"",,",,
+1310,"1309,""1308,Junius,M,22"",,",,
+1311,"1310,""1309,Lafayette,M,22"",,",,
+1312,"1311,""1310,Loren,M,22"",,",,
+1313,"1312,""1311,Madison,M,22"",,",,
+1314,"1313,""1312,Mason,M,22"",,",,
+1315,"1314,""1313,Orval,M,22"",,",,
+1316,"1315,""1314,Abram,M,21"",,",,
+1317,"1316,""1315,Aubrey,M,21"",,",,
+1318,"1317,""1316,Elliott,M,21"",,",,
+1319,"1318,""1317,Hans,M,21"",,",,
+1320,"1319,""1318,Karl,M,21"",,",,
+1321,"1320,""1319,Minor,M,21"",,",,
+1322,"1321,""1320,Wash,M,21"",,",,
+1323,"1322,""1321,Wilfred,M,21"",,",,
+1324,"1323,""1322,Allan,M,20"",,",,
+1325,"1324,""1323,Alphonse,M,20"",,",,
+1326,"1325,""1324,Dallas,M,20"",,",,
+1327,"1326,""1325,Dee,M,20"",,",,
+1328,"1327,""1326,Isiah,M,20"",,",,
+1329,"1328,""1327,Jason,M,20"",,",,
+1330,"1329,""1328,Johnny,M,20"",,",,
+1331,"1330,""1329,Lawson,M,20"",,",,
+1332,"1331,""1330,Lew,M,20"",,",,
+1333,"1332,""1331,Micheal,M,20"",,",,
+1334,"1333,""1332,Orin,M,20"",,",,
+1335,"1334,""1333,Addison,M,19"",,",,
+1336,"1335,""1334,Cal,M,19"",,",,
+1337,"1336,""1335,Erastus,M,19"",,",,
+1338,"1337,""1336,Francisco,M,19"",,",,
+1339,"1338,""1337,Hardy,M,19"",,",,
+1340,"1339,""1338,Lucien,M,19"",,",,
+1341,"1340,""1339,Randolph,M,19"",,",,
+1342,"1341,""1340,Stewart,M,19"",,",,
+1343,"1342,""1341,Vern,M,19"",,",,
+1344,"1343,""1342,Wilmer,M,19"",,",,
+1345,"1344,""1343,Zack,M,19"",,",,
+1346,"1345,""1344,Adrian,M,18"",,",,
+1347,"1346,""1345,Alvah,M,18"",,",,
+1348,"1347,""1346,Bertram,M,18"",,",,
+1349,"1348,""1347,Clay,M,18"",,",,
+1350,"1349,""1348,Ephraim,M,18"",,",,
+1351,"1350,""1349,Fritz,M,18"",,",,
+1352,"1351,""1350,Giles,M,18"",,",,
+1353,"1352,""1351,Grover,M,18"",,",,
+1354,"1353,""1352,Harris,M,18"",,",,
+1355,"1354,""1353,Isom,M,18"",,",,
+1356,"1355,""1354,Jesus,M,18"",,",,
+1357,"1356,""1355,Johnie,M,18"",,",,
+1358,"1357,""1356,Jonathan,M,18"",,",,
+1359,"1358,""1357,Lucian,M,18"",,",,
+1360,"1359,""1358,Malcolm,M,18"",,",,
+1361,"1360,""1359,Merritt,M,18"",,",,
+1362,"1361,""1360,Otho,M,18"",,",,
+1363,"1362,""1361,Perley,M,18"",,",,
+1364,"1363,""1362,Rolla,M,18"",,",,
+1365,"1364,""1363,Sandy,M,18"",,",,
+1366,"1365,""1364,Tomas,M,18"",,",,
+1367,"1366,""1365,Wilford,M,18"",,",,
+1368,"1367,""1366,Adolphus,M,17"",,",,
+1369,"1368,""1367,Angus,M,17"",,",,
+1370,"1369,""1368,Arther,M,17"",,",,
+1371,"1370,""1369,Carlos,M,17"",,",,
+1372,"1371,""1370,Cary,M,17"",,",,
+1373,"1372,""1371,Cassius,M,17"",,",,
+1374,"1373,""1372,Davis,M,17"",,",,
+1375,"1374,""1373,Hamilton,M,17"",,",,
+1376,"1375,""1374,Harve,M,17"",,",,
+1377,"1376,""1375,Israel,M,17"",,",,
+1378,"1377,""1376,Leander,M,17"",,",,
+1379,"1378,""1377,Melville,M,17"",,",,
+1380,"1379,""1378,Merle,M,17"",,",,
+1381,"1380,""1379,Murray,M,17"",,",,
+1382,"1381,""1380,Pleasant,M,17"",,",,
+1383,"1382,""1381,Sterling,M,17"",,",,
+1384,"1383,""1382,Steven,M,17"",,",,
+1385,"1384,""1383,Axel,M,16"",,",,
+1386,"1385,""1384,Boyd,M,16"",,",,
+1387,"1386,""1385,Bryant,M,16"",,",,
+1388,"1387,""1386,Clement,M,16"",,",,
+1389,"1388,""1387,Erwin,M,16"",,",,
+1390,"1389,""1388,Ezekiel,M,16"",,",,
+1391,"1390,""1389,Foster,M,16"",,",,
+1392,"1391,""1390,Frances,M,16"",,",,
+1393,"1392,""1391,Geo,M,16"",,",,
+1394,"1393,""1392,Houston,M,16"",,",,
+1395,"1394,""1393,Issac,M,16"",,",,
+1396,"1395,""1394,Jules,M,16"",,",,
+1397,"1396,""1395,Larkin,M,16"",,",,
+1398,"1397,""1396,Mat,M,16"",,",,
+1399,"1398,""1397,Morton,M,16"",,",,
+1400,"1399,""1398,Orlando,M,16"",,",,
+1401,"1400,""1399,Pierce,M,16"",,",,
+1402,"1401,""1400,Prince,M,16"",,",,
+1403,"1402,""1401,Rollie,M,16"",,",,
+1404,"1403,""1402,Rollin,M,16"",,",,
+1405,"1404,""1403,Sim,M,16"",,",,
+1406,"1405,""1404,Stuart,M,16"",,",,
+1407,"1406,""1405,Wilburn,M,16"",,",,
+1408,"1407,""1406,Bennett,M,15"",,",,
+1409,"1408,""1407,Casper,M,15"",,",,
+1410,"1409,""1408,Christ,M,15"",,",,
+1411,"1410,""1409,Dell,M,15"",,",,
+1412,"1411,""1410,Egbert,M,15"",,",,
+1413,"1412,""1411,Elmo,M,15"",,",,
+1414,"1413,""1412,Fay,M,15"",,",,
+1415,"1414,""1413,Gabriel,M,15"",,",,
+1416,"1415,""1414,Hector,M,15"",,",,
+1417,"1416,""1415,Horatio,M,15"",,",,
+1418,"1417,""1416,Lige,M,15"",,",,
+1419,"1418,""1417,Saul,M,15"",,",,
+1420,"1419,""1418,Smith,M,15"",,",,
+1421,"1420,""1419,Squire,M,15"",,",,
+1422,"1421,""1420,Tobe,M,15"",,",,
+1423,"1422,""1421,Tommie,M,15"",,",,
+1424,"1423,""1422,Wyatt,M,15"",,",,
+1425,"1424,""1423,Alford,M,14"",,",,
+1426,"1425,""1424,Alma,M,14"",,",,
+1427,"1426,""1425,Alton,M,14"",,",,
+1428,"1427,""1426,Andres,M,14"",,",,
+1429,"1428,""1427,Burl,M,14"",,",,
+1430,"1429,""1428,Cicero,M,14"",,",,
+1431,"1430,""1429,Dean,M,14"",,",,
+1432,"1431,""1430,Dorsey,M,14"",,",,
+1433,"1432,""1431,Enos,M,14"",,",,
+1434,"1433,""1432,Howell,M,14"",,",,
+1435,"1434,""1433,Lou,M,14"",,",,
+1436,"1435,""1434,Loyd,M,14"",,",,
+1437,"1436,""1435,Mahlon,M,14"",,",,
+1438,"1437,""1436,Nat,M,14"",,",,
+1439,"1438,""1437,Omar,M,14"",,",,
+1440,"1439,""1438,Oran,M,14"",,",,
+1441,"1440,""1439,Parker,M,14"",,",,
+1442,"1441,""1440,Raleigh,M,14"",,",,
+1443,"1442,""1441,Reginald,M,14"",,",,
+1444,"1443,""1442,Rubin,M,14"",,",,
+1445,"1444,""1443,Seymour,M,14"",,",,
+1446,"1445,""1444,Wm,M,14"",,",,
+1447,"1446,""1445,Young,M,14"",,",,
+1448,"1447,""1446,Benjamine,M,13"",,",,
+1449,"1448,""1447,Carey,M,13"",,",,
+1450,"1449,""1448,Carlton,M,13"",,",,
+1451,"1450,""1449,Eldridge,M,13"",,",,
+1452,"1451,""1450,Elzie,M,13"",,",,
+1453,"1452,""1451,Garrett,M,13"",,",,
+1454,"1453,""1452,Isham,M,13"",,",,
+1455,"1454,""1453,Johnson,M,13"",,",,
+1456,"1455,""1454,Larry,M,13"",,",,
+1457,"1456,""1455,Logan,M,13"",,",,
+1458,"1457,""1456,Merrill,M,13"",,",,
+1459,"1458,""1457,Mont,M,13"",,",,
+1460,"1459,""1458,Oren,M,13"",,",,
+1461,"1460,""1459,Pierre,M,13"",,",,
+1462,"1461,""1460,Rex,M,13"",,",,
+1463,"1462,""1461,Rodney,M,13"",,",,
+1464,"1463,""1462,Ted,M,13"",,",,
+1465,"1464,""1463,Webster,M,13"",,",,
+1466,"1465,""1464,West,M,13"",,",,
+1467,"1466,""1465,Wheeler,M,13"",,",,
+1468,"1467,""1466,Willam,M,13"",,",,
+1469,"1468,""1467,Al,M,12"",,",,
+1470,"1469,""1468,Aloysius,M,12"",,",,
+1471,"1470,""1469,Alvie,M,12"",,",,
+1472,"1471,""1470,Anna,M,12"",,",,
+1473,"1472,""1471,Art,M,12"",,",,
+1474,"1473,""1472,Augustine,M,12"",,",,
+1475,"1474,""1473,Bailey,M,12"",,",,
+1476,"1475,""1474,Benjaman,M,12"",,",,
+1477,"1476,""1475,Beverly,M,12"",,",,
+1478,"1477,""1476,Bishop,M,12"",,",,
+1479,"1478,""1477,Clair,M,12"",,",,
+1480,"1479,""1478,Cloyd,M,12"",,",,
+1481,"1480,""1479,Coleman,M,12"",,",,
+1482,"1481,""1480,Dana,M,12"",,",,
+1483,"1482,""1481,Duncan,M,12"",,",,
+1484,"1483,""1482,Dwight,M,12"",,",,
+1485,"1484,""1483,Emile,M,12"",,",,
+1486,"1485,""1484,Evert,M,12"",,",,
+1487,"1486,""1485,Henderson,M,12"",,",,
+1488,"1487,""1486,Hunter,M,12"",,",,
+1489,"1488,""1487,Jean,M,12"",,",,
+1490,"1489,""1488,Lem,M,12"",,",,
+1491,"1490,""1489,Luis,M,12"",,",,
+1492,"1491,""1490,Mathias,M,12"",,",,
+1493,"1492,""1491,Maynard,M,12"",,",,
+1494,"1493,""1492,Miguel,M,12"",,",,
+1495,"1494,""1493,Mortimer,M,12"",,",,
+1496,"1495,""1494,Nels,M,12"",,",,
+1497,"1496,""1495,Norris,M,12"",,",,
+1498,"1497,""1496,Pat,M,12"",,",,
+1499,"1498,""1497,Phil,M,12"",,",,
+1500,"1499,""1498,Rush,M,12"",,",,
+1501,"1500,""1499,Santiago,M,12"",,",,
+1502,"1501,""1500,Sol,M,12"",,",,
+1503,"1502,""1501,Sydney,M,12"",,",,
+1504,"1503,""1502,Thaddeus,M,12"",,",,
+1505,"1504,""1503,Thornton,M,12"",,",,
+1506,"1505,""1504,Tim,M,12"",,",,
+1507,"1506,""1505,Travis,M,12"",,",,
+1508,"1507,""1506,Truman,M,12"",,",,
+1509,"1508,""1507,Watson,M,12"",,",,
+1510,"1509,""1508,Webb,M,12"",,",,
+1511,"1510,""1509,Wellington,M,12"",,",,
+1512,"1511,""1510,Winfred,M,12"",,",,
+1513,"1512,""1511,Wylie,M,12"",,",,
+1514,"1513,""1512,Alec,M,11"",,",,
+1515,"1514,""1513,Basil,M,11"",,",,
+1516,"1515,""1514,Baxter,M,11"",,",,
+1517,"1516,""1515,Bertrand,M,11"",,",,
+1518,"1517,""1516,Buford,M,11"",,",,
+1519,"1518,""1517,Burr,M,11"",,",,
+1520,"1519,""1518,Cleveland,M,11"",,",,
+1521,"1520,""1519,Colonel,M,11"",,",,
+1522,"1521,""1520,Dempsey,M,11"",,",,
+1523,"1522,""1521,Early,M,11"",,",,
+1524,"1523,""1522,Ellsworth,M,11"",,",,
+1525,"1524,""1523,Fate,M,11"",,",,
+1526,"1525,""1524,Finley,M,11"",,",,
+1527,"1526,""1525,Gabe,M,11"",,",,
+1528,"1527,""1526,Garland,M,11"",,",,
+1529,"1528,""1527,Gerald,M,11"",,",,
+1530,"1529,""1528,Herschel,M,11"",,",,
+1531,"1530,""1529,Hezekiah,M,11"",,",,
+1532,"1531,""1530,Justus,M,11"",,",,
+1533,"1532,""1531,Lindsey,M,11"",,",,
+1534,"1533,""1532,Marcellus,M,11"",,",,
+1535,"1534,""1533,Olaf,M,11"",,",,
+1536,"1535,""1534,Olin,M,11"",,",,
+1537,"1536,""1535,Pablo,M,11"",,",,
+1538,"1537,""1536,Rolland,M,11"",,",,
+1539,"1538,""1537,Turner,M,11"",,",,
+1540,"1539,""1538,Verne,M,11"",,",,
+1541,"1540,""1539,Volney,M,11"",,",,
+1542,"1541,""1540,Williams,M,11"",,",,
+1543,"1542,""1541,Almon,M,10"",,",,
+1544,"1543,""1542,Alois,M,10"",,",,
+1545,"1544,""1543,Alonza,M,10"",,",,
+1546,"1545,""1544,Anson,M,10"",,",,
+1547,"1546,""1545,Authur,M,10"",,",,
+1548,"1547,""1546,Benton,M,10"",,",,
+1549,"1548,""1547,Billie,M,10"",,",,
+1550,"1549,""1548,Cornelious,M,10"",,",,
+1551,"1550,""1549,Darius,M,10"",,",,
+1552,"1551,""1550,Denis,M,10"",,",,
+1553,"1552,""1551,Dillard,M,10"",,",,
+1554,"1553,""1552,Doctor,M,10"",,",,
+1555,"1554,""1553,Elvin,M,10"",,",,
+1556,"1555,""1554,Emma,M,10"",,",,
+1557,"1556,""1555,Eric,M,10"",,",,
+1558,"1557,""1556,Evans,M,10"",,",,
+1559,"1558,""1557,Gideon,M,10"",,",,
+1560,"1559,""1558,Haywood,M,10"",,",,
+1561,"1560,""1559,Hilliard,M,10"",,",,
+1562,"1561,""1560,Hosea,M,10"",,",,
+1563,"1562,""1561,Lincoln,M,10"",,",,
+1564,"1563,""1562,Lonzo,M,10"",,",,
+1565,"1564,""1563,Lucious,M,10"",,",,
+1566,"1565,""1564,Lum,M,10"",,",,
+1567,"1566,""1565,Malachi,M,10"",,",,
+1568,"1567,""1566,Newt,M,10"",,",,
+1569,"1568,""1567,Noel,M,10"",,",,
+1570,"1569,""1568,Orie,M,10"",,",,
+1571,"1570,""1569,Palmer,M,10"",,",,
+1572,"1571,""1570,Pinkney,M,10"",,",,
+1573,"1572,""1571,Shirley,M,10"",,",,
+1574,"1573,""1572,Sumner,M,10"",,",,
+1575,"1574,""1573,Terry,M,10"",,",,
+1576,"1575,""1574,Urban,M,10"",,",,
+1577,"1576,""1575,Uriah,M,10"",,",,
+1578,"1577,""1576,Valentine,M,10"",,",,
+1579,"1578,""1577,Waldo,M,10"",,",,
+1580,"1579,""1578,Warner,M,10"",,",,
+1581,"1580,""1579,Wong,M,10"",,",,
+1582,"1581,""1580,Zeb,M,10"",,",,
+1583,"1582,""1581,Abel,M,9"",,",,
+1584,"1583,""1582,Alden,M,9"",,",,
+1585,"1584,""1583,Archer,M,9"",,",,
+1586,"1585,""1584,Avery,M,9"",,",,
+1587,"1586,""1585,Carson,M,9"",,",,
+1588,"1587,""1586,Cullen,M,9"",,",,
+1589,"1588,""1587,Doc,M,9"",,",,
+1590,"1589,""1588,Eben,M,9"",,",,
+1591,"1590,""1589,Elige,M,9"",,",,
+1592,"1591,""1590,Elizabeth,M,9"",,",,
+1593,"1592,""1591,Elmore,M,9"",,",,
+1594,"1593,""1592,Ernst,M,9"",,",,
+1595,"1594,""1593,Finis,M,9"",,",,
+1596,"1595,""1594,Freddie,M,9"",,",,
+1597,"1596,""1595,Godfrey,M,9"",,",,
+1598,"1597,""1596,Guss,M,9"",,",,
+1599,"1598,""1597,Hamp,M,9"",,",,
+1600,"1599,""1598,Hermann,M,9"",,",,
+1601,"1600,""1599,Isadore,M,9"",,",,
+1602,"1601,""1600,Isreal,M,9"",,",,
+1603,"1602,""1601,Jones,M,9"",,",,
+1604,"1603,""1602,June,M,9"",,",,
+1605,"1604,""1603,Lacy,M,9"",,",,
+1606,"1605,""1604,Lafe,M,9"",,",,
+1607,"1606,""1605,Leland,M,9"",,",,
+1608,"1607,""1606,Llewellyn,M,9"",,",,
+1609,"1608,""1607,Ludwig,M,9"",,",,
+1610,"1609,""1608,Manford,M,9"",,",,
+1611,"1610,""1609,Maxwell,M,9"",,",,
+1612,"1611,""1610,Minnie,M,9"",,",,
+1613,"1612,""1611,Obie,M,9"",,",,
+1614,"1613,""1612,Octave,M,9"",,",,
+1615,"1614,""1613,Orrin,M,9"",,",,
+1616,"1615,""1614,Ossie,M,9"",,",,
+1617,"1616,""1615,Oswald,M,9"",,",,
+1618,"1617,""1616,Park,M,9"",,",,
+1619,"1618,""1617,Parley,M,9"",,",,
+1620,"1619,""1618,Ramon,M,9"",,",,
+1621,"1620,""1619,Rice,M,9"",,",,
+1622,"1621,""1620,Stonewall,M,9"",,",,
+1623,"1622,""1621,Theo,M,9"",,",,
+1624,"1623,""1622,Tillman,M,9"",,",,
+1625,"1624,""1623,Addie,M,8"",,",,
+1626,"1625,""1624,Aron,M,8"",,",,
+1627,"1626,""1625,Ashley,M,8"",,",,
+1628,"1627,""1626,Bernhard,M,8"",,",,
+1629,"1628,""1627,Bertie,M,8"",,",,
+1630,"1629,""1628,Berton,M,8"",,",,
+1631,"1630,""1629,Buster,M,8"",,",,
+1632,"1631,""1630,Butler,M,8"",,",,
+1633,"1632,""1631,Carleton,M,8"",,",,
+1634,"1633,""1632,Carrie,M,8"",,",,
+1635,"1634,""1633,Clara,M,8"",,",,
+1636,"1635,""1634,Clarance,M,8"",,",,
+1637,"1636,""1635,Clare,M,8"",,",,
+1638,"1637,""1636,Crawford,M,8"",,",,
+1639,"1638,""1637,Danial,M,8"",,",,
+1640,"1639,""1638,Dayton,M,8"",,",,
+1641,"1640,""1639,Dolphus,M,8"",,",,
+1642,"1641,""1640,Elder,M,8"",,",,
+1643,"1642,""1641,Ephriam,M,8"",,",,
+1644,"1643,""1642,Fayette,M,8"",,",,
+1645,"1644,""1643,Felipe,M,8"",,",,
+1646,"1645,""1644,Fernando,M,8"",,",,
+1647,"1646,""1645,Flem,M,8"",,",,
+1648,"1647,""1646,Florence,M,8"",,",,
+1649,"1648,""1647,Ford,M,8"",,",,
+1650,"1649,""1648,Harlan,M,8"",,",,
+1651,"1650,""1649,Hayes,M,8"",,",,
+1652,"1651,""1650,Henery,M,8"",,",,
+1653,"1652,""1651,Hoy,M,8"",,",,
+1654,"1653,""1652,Huston,M,8"",,",,
+1655,"1654,""1653,Ida,M,8"",,",,
+1656,"1655,""1654,Ivory,M,8"",,",,
+1657,"1656,""1655,Jonah,M,8"",,",,
+1658,"1657,""1656,Justin,M,8"",,",,
+1659,"1658,""1657,Lenard,M,8"",,",,
+1660,"1659,""1658,Leopold,M,8"",,",,
+1661,"1660,""1659,Lionel,M,8"",,",,
+1662,"1661,""1660,Manley,M,8"",,",,
+1663,"1662,""1661,Marquis,M,8"",,",,
+1664,"1663,""1662,Marshal,M,8"",,",,
+1665,"1664,""1663,Mart,M,8"",,",,
+1666,"1665,""1664,Odie,M,8"",,",,
+1667,"1666,""1665,Olen,M,8"",,",,
+1668,"1667,""1666,Oral,M,8"",,",,
+1669,"1668,""1667,Orley,M,8"",,",,
+1670,"1669,""1668,Otha,M,8"",,",,
+1671,"1670,""1669,Press,M,8"",,",,
+1672,"1671,""1670,Price,M,8"",,",,
+1673,"1672,""1671,Quincy,M,8"",,",,
+1674,"1673,""1672,Randall,M,8"",,",,
+1675,"1674,""1673,Rich,M,8"",,",,
+1676,"1675,""1674,Richmond,M,8"",,",,
+1677,"1676,""1675,Romeo,M,8"",,",,
+1678,"1677,""1676,Russel,M,8"",,",,
+1679,"1678,""1677,Rutherford,M,8"",,",,
+1680,"1679,""1678,Shade,M,8"",,",,
+1681,"1680,""1679,Shelby,M,8"",,",,
+1682,"1681,""1680,Solon,M,8"",,",,
+1683,"1682,""1681,Thurman,M,8"",,",,
+1684,"1683,""1682,Tilden,M,8"",,",,
+1685,"1684,""1683,Troy,M,8"",,",,
+1686,"1685,""1684,Woodson,M,8"",,",,
+1687,"1686,""1685,Worth,M,8"",,",,
+1688,"1687,""1686,Aden,M,7"",,",,
+1689,"1688,""1687,Alcide,M,7"",,",,
+1690,"1689,""1688,Alf,M,7"",,",,
+1691,"1690,""1689,Algie,M,7"",,",,
+1692,"1691,""1690,Arlie,M,7"",,",,
+1693,"1692,""1691,Bart,M,7"",,",,
+1694,"1693,""1692,Bedford,M,7"",,",,
+1695,"1694,""1693,Benito,M,7"",,",,
+1696,"1695,""1694,Billy,M,7"",,",,
+1697,"1696,""1695,Bird,M,7"",,",,
+1698,"1697,""1696,Birt,M,7"",,",,
+1699,"1698,""1697,Bruno,M,7"",,",,
+1700,"1699,""1698,Burley,M,7"",,",,
+1701,"1700,""1699,Chancy,M,7"",,",,
+1702,"1701,""1700,Claus,M,7"",,",,
+1703,"1702,""1701,Cliff,M,7"",,",,
+1704,"1703,""1702,Clovis,M,7"",,",,
+1705,"1704,""1703,Connie,M,7"",,",,
+1706,"1705,""1704,Creed,M,7"",,",,
+1707,"1706,""1705,Delos,M,7"",,",,
+1708,"1707,""1706,Duke,M,7"",,",,
+1709,"1708,""1707,Eber,M,7"",,",,
+1710,"1709,""1708,Eligah,M,7"",,",,
+1711,"1710,""1709,Elliot,M,7"",,",,
+1712,"1711,""1710,Elton,M,7"",,",,
+1713,"1712,""1711,Emmitt,M,7"",,",,
+1714,"1713,""1712,Gene,M,7"",,",,
+1715,"1714,""1713,Golden,M,7"",,",,
+1716,"1715,""1714,Hal,M,7"",,",,
+1717,"1716,""1715,Hardin,M,7"",,",,
+1718,"1717,""1716,Harman,M,7"",,",,
+1719,"1718,""1717,Hervey,M,7"",,",,
+1720,"1719,""1718,Hollis,M,7"",,",,
+1721,"1720,""1719,Ivey,M,7"",,",,
+1722,"1721,""1720,Jennie,M,7"",,",,
+1723,"1722,""1721,Len,M,7"",,",,
+1724,"1723,""1722,Lindsay,M,7"",,",,
+1725,"1724,""1723,Lonie,M,7"",,",,
+1726,"1725,""1724,Lyle,M,7"",,",,
+1727,"1726,""1725,Mac,M,7"",,",,
+1728,"1727,""1726,Mal,M,7"",,",,
+1729,"1728,""1727,Math,M,7"",,",,
+1730,"1729,""1728,Miller,M,7"",,",,
+1731,"1730,""1729,Orson,M,7"",,",,
+1732,"1731,""1730,Osborne,M,7"",,",,
+1733,"1732,""1731,Percival,M,7"",,",,
+1734,"1733,""1732,Pleas,M,7"",,",,
+1735,"1734,""1733,Ples,M,7"",,",,
+1736,"1735,""1734,Rafael,M,7"",,",,
+1737,"1736,""1735,Raoul,M,7"",,",,
+1738,"1737,""1736,Roderick,M,7"",,",,
+1739,"1738,""1737,Rose,M,7"",,",,
+1740,"1739,""1738,Shelton,M,7"",,",,
+1741,"1740,""1739,Sid,M,7"",,",,
+1742,"1741,""1740,Theron,M,7"",,",,
+1743,"1742,""1741,Tobias,M,7"",,",,
+1744,"1743,""1742,Toney,M,7"",,",,
+1745,"1744,""1743,Tyler,M,7"",,",,
+1746,"1745,""1744,Vance,M,7"",,",,
+1747,"1746,""1745,Vivian,M,7"",,",,
+1748,"1747,""1746,Walton,M,7"",,",,
+1749,"1748,""1747,Watt,M,7"",,",,
+1750,"1749,""1748,Weaver,M,7"",,",,
+1751,"1750,""1749,Wilton,M,7"",,",,
+1752,"1751,""1750,Adolf,M,6"",,",,
+1753,"1752,""1751,Albin,M,6"",,",,
+1754,"1753,""1752,Albion,M,6"",,",,
+1755,"1754,""1753,Allison,M,6"",,",,
+1756,"1755,""1754,Alpha,M,6"",,",,
+1757,"1756,""1755,Alpheus,M,6"",,",,
+1758,"1757,""1756,Anastacio,M,6"",,",,
+1759,"1758,""1757,Andre,M,6"",,",,
+1760,"1759,""1758,Annie,M,6"",,",,
+1761,"1760,""1759,Arlington,M,6"",,",,
+1762,"1761,""1760,Armand,M,6"",,",,
+1763,"1762,""1761,Asberry,M,6"",,",,
+1764,"1763,""1762,Asbury,M,6"",,",,
+1765,"1764,""1763,Asher,M,6"",,",,
+1766,"1765,""1764,Augustin,M,6"",,",,
+1767,"1766,""1765,Auther,M,6"",,",,
+1768,"1767,""1766,Author,M,6"",,",,
+1769,"1768,""1767,Ballard,M,6"",,",,
+1770,"1769,""1768,Blas,M,6"",,",,
+1771,"1770,""1769,Caesar,M,6"",,",,
+1772,"1771,""1770,Candido,M,6"",,",,
+1773,"1772,""1771,Cato,M,6"",,",,
+1774,"1773,""1772,Clarke,M,6"",,",,
+1775,"1774,""1773,Clemente,M,6"",,",,
+1776,"1775,""1774,Colin,M,6"",,",,
+1777,"1776,""1775,Commodore,M,6"",,",,
+1778,"1777,""1776,Cora,M,6"",,",,
+1779,"1778,""1777,Coy,M,6"",,",,
+1780,"1779,""1778,Cruz,M,6"",,",,
+1781,"1780,""1779,Curt,M,6"",,",,
+1782,"1781,""1780,Damon,M,6"",,",,
+1783,"1782,""1781,Davie,M,6"",,",,
+1784,"1783,""1782,Delmar,M,6"",,",,
+1785,"1784,""1783,Dexter,M,6"",,",,
+1786,"1785,""1784,Dora,M,6"",,",,
+1787,"1786,""1785,Doss,M,6"",,",,
+1788,"1787,""1786,Drew,M,6"",,",,
+1789,"1788,""1787,Edson,M,6"",,",,
+1790,"1789,""1788,Elam,M,6"",,",,
+1791,"1790,""1789,Elihu,M,6"",,",,
+1792,"1791,""1790,Eliza,M,6"",,",,
+1793,"1792,""1791,Elsie,M,6"",,",,
+1794,"1793,""1792,Erie,M,6"",,",,
+1795,"1794,""1793,Ernie,M,6"",,",,
+1796,"1795,""1794,Ethel,M,6"",,",,
+1797,"1796,""1795,Ferd,M,6"",,",,
+1798,"1797,""1796,Friend,M,6"",,",,
+1799,"1798,""1797,Garry,M,6"",,",,
+1800,"1799,""1798,Gary,M,6"",,",,
+1801,"1800,""1799,Grace,M,6"",,",,
+1802,"1801,""1800,Gustaf,M,6"",,",,
+1803,"1802,""1801,Hallie,M,6"",,",,
+1804,"1803,""1802,Hampton,M,6"",,",,
+1805,"1804,""1803,Harrie,M,6"",,",,
+1806,"1805,""1804,Hattie,M,6"",,",,
+1807,"1806,""1805,Hence,M,6"",,",,
+1808,"1807,""1806,Hillard,M,6"",,",,
+1809,"1808,""1807,Hollie,M,6"",,",,
+1810,"1809,""1808,Holmes,M,6"",,",,
+1811,"1810,""1809,Hope,M,6"",,",,
+1812,"1811,""1810,Hyman,M,6"",,",,
+1813,"1812,""1811,Ishmael,M,6"",,",,
+1814,"1813,""1812,Jarrett,M,6"",,",,
+1815,"1814,""1813,Jessee,M,6"",,",,
+1816,"1815,""1814,Joeseph,M,6"",,",,
+1817,"1816,""1815,Junious,M,6"",,",,
+1818,"1817,""1816,Kirk,M,6"",,",,
+1819,"1818,""1817,Levy,M,6"",,",,
+1820,"1819,""1818,Mervin,M,6"",,",,
+1821,"1820,""1819,Michel,M,6"",,",,
+1822,"1821,""1820,Milford,M,6"",,",,
+1823,"1822,""1821,Mitchel,M,6"",,",,
+1824,"1823,""1822,Nellie,M,6"",,",,
+1825,"1824,""1823,Noble,M,6"",,",,
+1826,"1825,""1824,Obed,M,6"",,",,
+1827,"1826,""1825,Oda,M,6"",,",,
+1828,"1827,""1826,Orren,M,6"",,",,
+1829,"1828,""1827,Ottis,M,6"",,",,
+1830,"1829,""1828,Rafe,M,6"",,",,
+1831,"1830,""1829,Redden,M,6"",,",,
+1832,"1831,""1830,Reese,M,6"",,",,
+1833,"1832,""1831,Rube,M,6"",,",,
+1834,"1833,""1832,Ruby,M,6"",,",,
+1835,"1834,""1833,Rupert,M,6"",,",,
+1836,"1835,""1834,Salomon,M,6"",,",,
+1837,"1836,""1835,Sammie,M,6"",,",,
+1838,"1837,""1836,Sanders,M,6"",,",,
+1839,"1838,""1837,Soloman,M,6"",,",,
+1840,"1839,""1838,Stacy,M,6"",,",,
+1841,"1840,""1839,Stanford,M,6"",,",,
+1842,"1841,""1840,Stanton,M,6"",,",,
+1843,"1842,""1841,Thad,M,6"",,",,
+1844,"1843,""1842,Titus,M,6"",,",,
+1845,"1844,""1843,Tracy,M,6"",,",,
+1846,"1845,""1844,Vernie,M,6"",,",,
+1847,"1846,""1845,Wendell,M,6"",,",,
+1848,"1847,""1846,Wilhelm,M,6"",,",,
+1849,"1848,""1847,Willian,M,6"",,",,
+1850,"1849,""1848,Yee,M,6"",,",,
+1851,"1850,""1849,Zeke,M,6"",,",,
+1852,"1851,""1850,Ab,M,5"",,",,
+1853,"1852,""1851,Abbott,M,5"",,",,
+1854,"1853,""1852,Agustus,M,5"",,",,
+1855,"1854,""1853,Albertus,M,5"",,",,
+1856,"1855,""1854,Almer,M,5"",,",,
+1857,"1856,""1855,Alphonso,M,5"",,",,
+1858,"1857,""1856,Alvia,M,5"",,",,
+1859,"1858,""1857,Artie,M,5"",,",,
+1860,"1859,""1858,Arvid,M,5"",,",,
+1861,"1860,""1859,Ashby,M,5"",,",,
+1862,"1861,""1860,Augusta,M,5"",,",,
+1863,"1862,""1861,Aurthur,M,5"",,",,
+1864,"1863,""1862,Babe,M,5"",,",,
+1865,"1864,""1863,Baldwin,M,5"",,",,
+1866,"1865,""1864,Barnett,M,5"",,",,
+1867,"1866,""1865,Bartholomew,M,5"",,",,
+1868,"1867,""1866,Barton,M,5"",,",,
+1869,"1868,""1867,Bernie,M,5"",,",,
+1870,"1869,""1868,Blaine,M,5"",,",,
+1871,"1870,""1869,Boston,M,5"",,",,
+1872,"1871,""1870,Brad,M,5"",,",,
+1873,"1872,""1871,Bradford,M,5"",,",,
+1874,"1873,""1872,Bradley,M,5"",,",,
+1875,"1874,""1873,Brooks,M,5"",,",,
+1876,"1875,""1874,Buck,M,5"",,",,
+1877,"1876,""1875,Budd,M,5"",,",,
+1878,"1877,""1876,Ceylon,M,5"",,",,
+1879,"1878,""1877,Chalmers,M,5"",,",,
+1880,"1879,""1878,Chesley,M,5"",,",,
+1881,"1880,""1879,Chin,M,5"",,",,
+1882,"1881,""1880,Cleo,M,5"",,",,
+1883,"1882,""1881,Crockett,M,5"",,",,
+1884,"1883,""1882,Cyril,M,5"",,",,
+1885,"1884,""1883,Daisy,M,5"",,",,
+1886,"1885,""1884,Denver,M,5"",,",,
+1887,"1886,""1885,Dow,M,5"",,",,
+1888,"1887,""1886,Duff,M,5"",,",,
+1889,"1888,""1887,Edie,M,5"",,",,
+1890,"1889,""1888,Edith,M,5"",,",,
+1891,"1890,""1889,Elick,M,5"",,",,
+1892,"1891,""1890,Elie,M,5"",,",,
+1893,"1892,""1891,Eliga,M,5"",,",,
+1894,"1893,""1892,Eliseo,M,5"",,",,
+1895,"1894,""1893,Elroy,M,5"",,",,
+1896,"1895,""1894,Ely,M,5"",,",,
+1897,"1896,""1895,Ennis,M,5"",,",,
+1898,"1897,""1896,Enrique,M,5"",,",,
+1899,"1898,""1897,Erasmus,M,5"",,",,
+1900,"1899,""1898,Esau,M,5"",,",,
+1901,"1900,""1899,Everette,M,5"",,",,
+1902,"1901,""1900,Firman,M,5"",,",,
+1903,"1902,""1901,Fleming,M,5"",,",,
+1904,"1903,""1902,Flora,M,5"",,",,
+1905,"1904,""1903,Gardner,M,5"",,",,
+1906,"1905,""1904,Gee,M,5"",,",,
+1907,"1906,""1905,Gorge,M,5"",,",,
+1908,"1907,""1906,Gottlieb,M,5"",,",,
+1909,"1908,""1907,Gregorio,M,5"",,",,
+1910,"1909,""1908,Gregory,M,5"",,",,
+1911,"1910,""1909,Gustavus,M,5"",,",,
+1912,"1911,""1910,Halsey,M,5"",,",,
+1913,"1912,""1911,Handy,M,5"",,",,
+1914,"1913,""1912,Hardie,M,5"",,",,
+1915,"1914,""1913,Harl,M,5"",,",,
+1916,"1915,""1914,Hayden,M,5"",,",,
+1917,"1916,""1915,Hays,M,5"",,",,
+1918,"1917,""1916,Hermon,M,5"",,",,
+1919,"1918,""1917,Hershel,M,5"",,",,
+1920,"1919,""1918,Holly,M,5"",,",,
+1921,"1920,""1919,Hosteen,M,5"",,",,
+1922,"1921,""1920,Hoyt,M,5"",,",,
+1923,"1922,""1921,Hudson,M,5"",,",,
+1924,"1923,""1922,Huey,M,5"",,",,
+1925,"1924,""1923,Humphrey,M,5"",,",,
+1926,"1925,""1924,Hunt,M,5"",,",,
+1927,"1926,""1925,Hyrum,M,5"",,",,
+1928,"1927,""1926,Irven,M,5"",,",,
+1929,"1928,""1927,Isam,M,5"",,",,
+1930,"1929,""1928,Ivy,M,5"",,",,
+1931,"1930,""1929,Jabez,M,5"",,",,
+1932,"1931,""1930,Jewel,M,5"",,",,
+1933,"1932,""1931,Jodie,M,5"",,",,
+1934,"1933,""1932,Judd,M,5"",,",,
+1935,"1934,""1933,Julious,M,5"",,",,
+1936,"1935,""1934,Justice,M,5"",,",,
+1937,"1936,""1935,Katherine,M,5"",,",,
+1938,"1937,""1936,Kelly,M,5"",,",,
+1939,"1938,""1937,Kit,M,5"",,",,
+1940,"1939,""1938,Knute,M,5"",,",,
+1941,"1940,""1939,Lavern,M,5"",,",,
+1942,"1941,""1940,Lawyer,M,5"",,",,
+1943,"1942,""1941,Layton,M,5"",,",,
+1944,"1943,""1942,Leonidas,M,5"",,",,
+1945,"1944,""1943,Lewie,M,5"",,",,
+1946,"1945,""1944,Lillie,M,5"",,",,
+1947,"1946,""1945,Linwood,M,5"",,",,
+1948,"1947,""1946,Loran,M,5"",,",,
+1949,"1948,""1947,Lorin,M,5"",,",,
+1950,"1949,""1948,Mace,M,5"",,",,
+1951,"1950,""1949,Malcom,M,5"",,",,
+1952,"1951,""1950,Manly,M,5"",,",,
+1953,"1952,""1951,Manson,M,5"",,",,
+1954,"1953,""1952,Matthias,M,5"",,",,
+1955,"1954,""1953,Mattie,M,5"",,",,
+1956,"1955,""1954,Merida,M,5"",,",,
+1957,"1956,""1955,Miner,M,5"",,",,
+1958,"1957,""1956,Montgomery,M,5"",,",,
+1959,"1958,""1957,Moroni,M,5"",,",,
+1960,"1959,""1958,Murdock,M,5"",,",,
+1961,"1960,""1959,Myrtle,M,5"",,",,
+1962,"1961,""1960,Nate,M,5"",,",,
+1963,"1962,""1961,Nathanial,M,5"",,",,
+1964,"1963,""1962,Nimrod,M,5"",,",,
+1965,"1964,""1963,Nora,M,5"",,",,
+1966,"1965,""1964,Norval,M,5"",,",,
+1967,"1966,""1965,Nova,M,5"",,",,
+1968,"1967,""1966,Orion,M,5"",,",,
+1969,"1968,""1967,Orla,M,5"",,",,
+1970,"1969,""1968,Orrie,M,5"",,",,
+1971,"1970,""1969,Payton,M,5"",,",,
+1972,"1971,""1970,Philo,M,5"",,",,
+1973,"1972,""1971,Phineas,M,5"",,",,
+1974,"1973,""1972,Presley,M,5"",,",,
+1975,"1974,""1973,Ransom,M,5"",,",,
+1976,"1975,""1974,Reece,M,5"",,",,
+1977,"1976,""1975,Rene,M,5"",,",,
+1978,"1977,""1976,Roswell,M,5"",,",,
+1979,"1978,""1977,Rowland,M,5"",,",,
+1980,"1979,""1978,Sampson,M,5"",,",,
+1981,"1980,""1979,Samual,M,5"",,",,
+1982,"1981,""1980,Santos,M,5"",,",,
+1983,"1982,""1981,Schuyler,M,5"",,",,
+1984,"1983,""1982,Sheppard,M,5"",,",,
+1985,"1984,""1983,Spurgeon,M,5"",,",,
+1986,"1985,""1984,Starling,M,5"",,",,
+1987,"1986,""1985,Sylvanus,M,5"",,",,
+1988,"1987,""1986,Theadore,M,5"",,",,
+1989,"1988,""1987,Theophile,M,5"",,",,
+1990,"1989,""1988,Tilmon,M,5"",,",,
+1991,"1990,""1989,Tommy,M,5"",,",,
+1992,"1991,""1990,Unknown,M,5"",,",,
+1993,"1992,""1991,Vann,M,5"",,",,
+1994,"1993,""1992,Wes,M,5"",,",,
+1995,"1994,""1993,Winston,M,5"",,",,
+1996,"1995,""1994,Wood,M,5"",,",,
+1997,"1996,""1995,Woodie,M,5"",,",,
+1998,"1997,""1996,Worthy,M,5"",,",,
+1999,"1998,""1997,Wright,M,5"",,",,
+2000,"1999,""1998,York,M,5"",,",,
+2001,"2000,""1999,Zachariah,M,5"",,",,
