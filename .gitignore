@@ -1,0 +1,9 @@
+*.ipynb
+*.jpg
+itchat_data.csv
+itchat_2.ipynb
+*.csv
+workspace/pydata-book-master/COPYING
+workspace/pjl_comment.txt
+*.zip
+workspace/QR.png
