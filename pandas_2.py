@@ -2,13 +2,11 @@
 import pandas as pd
 import numpy  as np
 from pandas import Series,DataFrame
-file_frd=open('frd.txt','r')
-data=file_frd.read()
-file_frd.close() 
-data_1=list(data) 
-#data_2='wo  ai bei jing tian an men'
-data_2=DataFrame(data_1)
-print data_2
-#file_frd.write(frid)
+
+df=DataFrame(np.random.randn(15,3),columns=['a1','b1','c1'])
+
+df1=(df-df.mean())/df.std()
+df.corr() # 协方差
+df.cov() #相关系数
 
 

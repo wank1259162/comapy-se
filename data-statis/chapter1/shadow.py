@@ -10,5 +10,6 @@ inputfile = 'Shadow02.xlsx'
 data = pd.read_excel(inputfile) #导入数据
 
 grouped =data.groupby(data['Exchange']).count()
-grouped.plot(kind='bar')
+grouped.plot(kind='bar').savefig('dog.jpg')
 plt.show()
+#plt.savefig('dog.jpg')
