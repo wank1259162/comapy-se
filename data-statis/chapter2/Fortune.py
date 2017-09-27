@@ -21,5 +21,10 @@ pyplot.ylabel('Profit')
 pyplot.title('Equity &Profit')
 pyplot.show()
 
-drawScatter(heights, weights)
+#drawScatter(heights, weights)
 
+bins=[0,200,400,600,800,1000,1200]
+factor =pd.cut(data_fortune.Profit,bins)
+#grouped=data_fortune.groupby(factor).count()
+
+grouped=data_fortune.Equity.groupby(factor).count()

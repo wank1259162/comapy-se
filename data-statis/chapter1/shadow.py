@@ -8,10 +8,12 @@ import pandas as pd
 inputfile = 'Shadow02.xlsx'
 #data = pd.read_excel(inputfile, index_col = u'序号') #导入数据
 data = pd.read_excel(inputfile) #导入数据
+face=pd.cut(data[u'Price/Earnings Ratio'],4)
+grouped =data.groupby([face,data['Exchange']]).count().plot(kind='bar')ho
+#grouped =data.groupby(data['Exchange']).count()
 
-grouped =data.groupby(data['Exchange']).count()
 #grouped.plot(kind='bar')
-#plt.show()
+plt.show()
 
 bins=np.array([0,15,30,45,60,75])
 #labels=data.cut()
