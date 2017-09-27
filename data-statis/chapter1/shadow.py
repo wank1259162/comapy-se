@@ -16,7 +16,8 @@ grouped =data.groupby(data['Exchange']).count()
 bins=np.array([0,15,30,45,60,75])
 #labels=data.cut()
 labels=pd.cut(data.GPM,bins)
-pd.value_count(labels)
+pd.value_counts(labels).plot(kind='bar')
+
 
 #grouped1 = data.groupby(['GPM',labels])
 #sum=grouped1.GPM.sum()

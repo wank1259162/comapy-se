@@ -29,12 +29,13 @@ def genData():
     return array(heights), array(weights), array(grades)
 
 heights, weights, grades = genData()
+
 Boy_heights=DataFrame(heights,columns=['heights'])
 Boy_weights=DataFrame(weights,columns=['weights'])
 Boy_grades=DataFrame(grades,columns=['grades'])
 Boy_Data=pd.concat([Boy_heights,Boy_weights,Boy_grades],axis=1)
 
-
+Boy_Data.grades.value_counts()
 from matplotlib import pyplot
 
 #绘制柱状图
