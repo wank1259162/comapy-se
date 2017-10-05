@@ -21,6 +21,7 @@ pyplot.ylabel('Profit')
 pyplot.title('Equity &Profit')
 pyplot.show()
 
+
 #drawScatter(heights, weights)
 
 bins=[0,200,400,600,800,1000,1200]

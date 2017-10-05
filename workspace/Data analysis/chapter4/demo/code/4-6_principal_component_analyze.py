@@ -10,7 +10,17 @@ data = pd.read_excel(inputfile, header = None) #读入数据
 
 from sklearn.decomposition import PCA
 
-pca = PCA()
+pca = PCA(3)
 pca.fit(data)
 pca.components_ #返回模型的各个特征向量
 pca.explained_variance_ratio_ #返回各个成分各自的方差百分比
+
+
+low_d=pca.transform(data)
+
+#newData=pca.fit_transform(data)
+
+x=pca.inverse_transform(low_d)
+
+
+
