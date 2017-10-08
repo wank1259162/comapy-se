@@ -1,55 +1,33 @@
 #coding=utf8
 import itchat
-import math
+#import math
 import PIL.Image as Image
 import os
-from pandas import Series,DataFrame
+#from pandas import Series,DataFrame
 
 itchat.auto_login(hotReload=True)   #设置为自动 登录
 
 friends = itchat.get_friends(update=True)[0:]
 maps=itchat.get_mps(update=True)[0:]
-chatroms=itchat.get_chatrooms(update=True)[0:]
+chatrooms=itchat.get_chatrooms(update=True)[0:]
 
-#print maps
-#print type(friends)
-
-ff=DataFrame(friends)              #好友列表
-fmaps=DataFrame(maps)              #公众号列表
-fchatroms=DataFrame(chatroms)      #群聊列表
+# ff=DataFrame(friends)              #好友列表
+# fmaps=DataFrame(maps)              #公众号列表
+# fchatrooms=DataFrame(chatrooms)      #群聊列表
 
 
-
-
-
-
-#print fchatroms
-#print fchatroms.columns
+#print fchatrooms
+#print fchatrooms.columns
 
 #将数据写入文件保存，编码格式设置为utf-8
-fchatroms.to_csv('itchat_chatroms.csv',encoding='utf-8') 
-fmaps.to_csv('itchat_maps.csv',encoding='utf-8')
-ff.to_csv('itchat_data.csv',encoding='utf-8')
+# fchatrooms.to_csv('itchat_chatrooms.csv',encoding='utf-8') 
+#fmaps.to_csv('itchat_maps.csv',encoding='utf-8')
+# ff.to_csv('itchat_data.csv',encoding='utf-8')
 
 
+#**********获取好友头像**********#
 
-
-
-#print friends[0:100]
-#ac=['sss','sasasas']
-#values = ','.join(str(v) for v in value_list)
-#frid=''.join(str(v) for v in friends)  #list类型转换成str类型
-#file_frd=open('frd.txt','w')
-#f.writelines(frid)  
-#file_frd.write(frid)
-#file_frd.close()  
-
-#a=['1','2','3','4','33']
-#b=['dd','ddd','d']
-#cf={a:b}
-
-
-#user = friends[0]["UserName"]
+os.mkdir('headImg') #创建目录，保存微信好友头像
 num = 0
 for i in friends:
      img = itchat.get_head_img(userName=i["UserName"])	
@@ -57,34 +35,26 @@ for i in friends:
 	 f.write(img)
 	 f.close()
 	 num += 1
-	 
-num1 = 0
-#memberList = itchat.update_chatroom(chatroms[4]['UserName'], detailedMember=True) 
-for k in chatroms:
+
+#**********获取所有聊天群头像**********#
+for k1 in range(len(chatrooms)):
+   num1 = 0
+   memberList = itchat.update_chatroom(chatrooms[k1]['UserName'], detailedMember=True)
+   # path='Image'+str(k1)
+   path=str(chatrooms[k1][u'NickName'].encode('gbk'))
+   os.mkdir(path)       #创建目录，保存群好友头像
+   for k2 in range(memberList[u'MemberCount']):
      img1 = itchat.get_head_img(
-	                             #userName=k["UserName"],
-								 #chatroomUserName= u'@4a32059be125cb2b871813b0985d40f6'
-								 chatroomUserName=chatroms[4]['UserName']
+	                             userName=memberList[u'MemberList'][k2]['UserName'],
+								 chatroomUserName=memberList['UserName']
 							    )	
-     with open('./headImg1/'+str(num1) + ".jpg",'wb') as f2:
+     with open(path+'/'+str(num1) + ".jpg",'wb') as f2:
 	 f2.write(img1)
 	 f2.close()
 	 num1 += 1
 
-#print chatroms[4]['UserName']
-print chatroms[4]['MemberCount']
-	
-memberList = itchat.update_chatroom(chatroms[4]['UserName'], detailedMember=True) 
-chatroms=itchat.get_chatrooms(update=True)[0:]
-fchatroms.to_csv('itchat_chatroms.csv',encoding='utf-8') 
-print memberList['UserName']
-print type(memberList)
-
-#ff1=DataFrame(memberList)
-#ff1.to_csv('itroom_data.csv',encoding='utf-8')
-
-#obj1=ff.reindex([1])
-#print  obj1
+   
+print 'ALL is Done'
 
 
 
